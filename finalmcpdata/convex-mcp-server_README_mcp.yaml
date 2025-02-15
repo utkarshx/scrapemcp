@@ -1,0 +1,12 @@
+mcps:
+  - type: docker
+    mcps: []
+  - type: uv
+    mcps: []
+  - type: npx
+    mcps: []
+  - type: npm
+    mcps: []
+  - type: mcpServer
+    mcps:
+      - {"mcpServers": {"convex-mcp-server": {"command": "/path/to/convex-mcp-server/build/index.js"}}}

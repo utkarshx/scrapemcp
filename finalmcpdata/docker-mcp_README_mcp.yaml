@@ -1,0 +1,24 @@
+mcps:
+  type: docker-mcp
+  mcps:
+    docker-mcp-docker-desktop:
+      mcpServers:
+        "docker-mcp":
+          command: uvx
+          args:
+            - docker-mcp
+    docker-mcp-production:
+      mcpServers:
+        "docker-mcp":
+          command: uvx
+          args:
+            - docker-mcp
+    docker-mcp-development:
+      mcpServers:
+        "docker-mcp":
+          command: uv
+          args:
+            - --directory
+            - "<path-to-docker-mcp>"
+            - run
+            - docker-mcp

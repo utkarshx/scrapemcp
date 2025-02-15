@@ -1,0 +1,11 @@
+mcps:
+  - type: gomcp
+    mcpsServers:
+      bybit:
+        command: "cd /path/to/bybit-mcp && pnpm run serve"
+        arguments: []
+        env:
+          BYBIT_API_KEY: ""
+          BYBIT_API_SECRET: ""
+          BYBIT_USE_TESTNET: "true"
+          DEBUG: "false"

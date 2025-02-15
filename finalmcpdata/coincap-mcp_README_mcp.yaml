@@ -1,0 +1,11 @@
+mcps:
+  - type: docker
+    mcpServers:
+      mongodb:
+        command: npx
+        args: ["coincap-mcp"]
+  
+  - type: npm
+    mcpServers:
+      coincap-mcp:
+        command: "/path/to/coincap-mcp/build/index.js"

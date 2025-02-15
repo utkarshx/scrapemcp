@@ -1,0 +1,6 @@
+mcps:
+  - type: docker
+    mcpServers:
+      claude-server:
+        command: node
+        args: ["/path/to/claude-server/build/index.js"]

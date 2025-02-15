@@ -1,0 +1,9 @@
+mcps:
+  type: config
+  mcpServers:
+    exa:
+      command: node
+      args:
+        - /path/to/exa-server/build/index.js
+      env:
+        EXA_API_KEY: your-api-key-here

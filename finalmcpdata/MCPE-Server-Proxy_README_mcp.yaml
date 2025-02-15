@@ -1,0 +1,6 @@
+mcps:
+  - type: python-script
+    mcpsServers:
+      mcpServers:
+        exampleServer:
+          address: "example.tk"

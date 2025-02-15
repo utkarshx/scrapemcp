@@ -1,0 +1,9 @@
+mcps:
+  type: aws
+  mcpServers:
+    aws:
+      command: npm
+      args:
+        - "--prefix"
+        - "/Users/<YOUR USERNAME>/aws-mcp"
+        - "start"

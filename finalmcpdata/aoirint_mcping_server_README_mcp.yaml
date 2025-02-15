@@ -1,0 +1,9 @@
+mcps:
+  type: docker-compose
+  mcpsServers:
+    - mcpServers:
+        servers:
+          - host: server1.com
+            port: 25565
+          - host: server2.org
+            port: 25565

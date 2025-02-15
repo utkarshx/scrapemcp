@@ -1,0 +1,7 @@
+mcps:
+  type: coder_toolbox_mcp_server
+  mcpServers:
+    docker: {}
+    uv: {}
+    npx: {}
+    npm: {}

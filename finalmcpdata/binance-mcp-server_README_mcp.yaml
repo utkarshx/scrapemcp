@@ -1,0 +1,4 @@
+mcps:
+  type: npm
+  mcpServers:
+    - {"mcpServers": {}}

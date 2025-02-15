@@ -1,0 +1,4 @@
+mcps:
+  type: Zubeid Hendricks' MCP Server for Azure DevOps
+  mcpServers:
+    - {"mcpServers": {}}

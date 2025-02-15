@@ -1,0 +1,7 @@
+mcps:
+  type: npm
+  mcps:
+    - mcpServers:
+        "LLM.txt Server": {}
+        "Curl Server": {}
+        "macOS Server": {}

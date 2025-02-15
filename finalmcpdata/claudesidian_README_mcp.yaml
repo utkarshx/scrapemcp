@@ -1,0 +1,8 @@
+mcps:
+  type: mcpSettings
+  mcps:
+    - mcpServers:
+        claudesidian:
+          command: claudesidian
+          args:
+            - PATH_TO_YOUR_OBSIDIAN_VAULT

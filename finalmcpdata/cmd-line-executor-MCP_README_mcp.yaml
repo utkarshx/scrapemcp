@@ -1,0 +1,26 @@
+mcps:
+  - type: docker
+    mcpServers:
+      cmd-line-executor:
+        command: uv
+        args:
+          - "--directory"
+          - "/Users/$(whoami)/experiments/claude-mvp/cmd-line-executor"
+          - "run"
+          - "cmd-line-executor"
+  - type: npx
+    mcpServers:
+      cmd-line-executor:
+        command: "@modelcontextprotocol/inspector"
+        args:
+          - "uv"
+          - "--directory"
+          - "/Users/markus/experiments/claude-mvp/cmd-line-executor"
+          - "run"
+          - "cmd-line-executor"
+  - type: uv
+    mcpServers:
+      cmd-line-executor:
+        command: "uvx"
+        args:
+          - "cmd-line-executor"

@@ -1,0 +1,25 @@
+mcps:
+  - type: docker
+    mcpServers:
+      mcp-geo:
+        command: uv
+        args:
+          - --directory
+          - MCP-Geo
+          - run
+          - geo.py
+        env:
+          NOMINATIM_URL: "${NOMINATIM_URL}"
+          SCHEME: "http"
+          GEOCODER_PROVIDER: "nominatim"
+
+  - type: npx
+    mcpServers:
+      mcp-geo:
+        command: run
+        args:
+          - geo.py
+        env:
+          NOMINATIM_URL: "${NOMINATIM_URL}"
+          SCHEME: "http"
+          GEOCODER_PROVIDER: "nominatim"

@@ -1,0 +1,5 @@
+mcps:
+  - type: npx
+    mcpServers: {}
+  - type: docker
+    mcpServers: {}

@@ -1,0 +1,18 @@
+mcps:
+  - type: docker
+    mcpServers:
+      "@modelcontextprotocol/server-filesystem":
+        mcpServers:
+          "@modelcontextprotocol/server-google-drive":
+            mcpServers:
+              "mark3labs/mcp-filesystem-server": {}
+  - type: uv
+    mcpServers:
+      exa-labs/exa-mcp-server: {}
+      "@modelcontextprotocol/server-brave-search": {}
+      "ac3xx/mcp-servers-kagi": {}
+      "blazickjp/arxiv-mcp-server": {}
+  - type: npx
+    mcpServers:
+      "@modelcontextprotocol/server-postgres": {}
+      "@modelcontextprotocol/server-sqlite": {}

@@ -1,0 +1,6 @@
+mcps:
+  type: docker
+  mcpServers:
+    memorymesh:
+      command: node
+      args: ["/ABSOLUTE/PATH/TO/YOUR/PROJECT/memorymesh/dist/index.js"]

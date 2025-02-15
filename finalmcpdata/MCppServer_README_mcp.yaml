@@ -1,0 +1,5 @@
+mcps:
+  type: MCppServer
+  mcps:
+    - mcpServers:
+        servers: []

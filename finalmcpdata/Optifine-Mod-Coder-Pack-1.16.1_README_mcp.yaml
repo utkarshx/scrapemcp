@@ -1,0 +1,4 @@
+mcps:
+  type: README
+  mcps:
+    - mcpServers: {}

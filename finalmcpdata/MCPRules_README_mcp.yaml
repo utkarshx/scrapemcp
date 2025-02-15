@@ -1,0 +1,18 @@
+mcps:
+  - type: docker
+    mcpServers: {}
+  - type: uv
+    mcpServers: {}
+  - type: npx
+    mcpServers: {}
+  - type: npm
+    mcpServers: {}
+  - type: vscodeclineextension
+    mcpServers:
+      rules:
+        command: node
+        args: ["/path/to/rules-server/build/index.js"]
+        disabled: false
+        alwaysAllow: []
+  - type: claudedesktop
+    mcpServers: {}

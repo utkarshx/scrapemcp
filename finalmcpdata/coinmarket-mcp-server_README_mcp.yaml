@@ -1,0 +1,14 @@
+mcps:
+  - type: docker
+    mcpServers: {}
+  - type: uv
+    mcpServers:
+      coinmarket_service:
+        command: "uv"
+        args:
+          - "--directory"
+          - "/Users/anjor/repos/anjor/coinmarket_service"
+          - "run"
+          - "coinmarket_service"
+        env:
+          COINMARKET_API_KEY: "<insert api key>"

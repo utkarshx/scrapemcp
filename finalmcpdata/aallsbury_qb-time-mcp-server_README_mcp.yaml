@@ -1,0 +1,11 @@
+mcps:
+  type: combined-mcp-server
+  mcps:
+    qb-time-tools:
+      mcpServers:
+        "qb-time-tools":
+          command: python
+          args:
+            - "./qb-time-mcp-server/main.py"
+          env:
+            QB_TIME_ACCESS_TOKEN: "{{QB_TIME_ACCESS_TOKEN}}"

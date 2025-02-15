@@ -1,0 +1,5 @@
+mcps:
+  type: npm
+  mcpsServers:
+    mcpServers:
+      server-cmd: {}

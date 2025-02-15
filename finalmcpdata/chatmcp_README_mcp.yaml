@@ -1,0 +1,7 @@
+mcps:
+  - type: docker
+    mcpServers: {}
+  - type: uvx
+    mcpServers: {}
+  - type: npx
+    mcpServers: {}

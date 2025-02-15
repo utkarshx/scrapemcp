@@ -1,0 +1,18 @@
+mcps:
+  - type: docker
+    mcpServers: {}
+  - type: uv
+    mcpServers:
+      "comfy-ui-mcp-server":
+        command: "uv"
+        args:
+          - "--directory"
+          - "E:\\Claude\\comfy-ui-mcp-server"
+          - "run"
+          - "comfy-ui-mcp-server"
+  - type: uvx
+    mcpServers:
+      "comfy-ui-mcp-server":
+        command: "uvx"
+        args:
+          - "comfy-ui-mcp-server"

@@ -1,0 +1,19 @@
+mcps:
+  - type: docker
+    mcpServers:
+      mcp-server-aws:
+        command: uv
+        args:
+          - "--directory"
+          - "/path/to/repo/mcp-server-aws"
+          - "run"
+          - "mcp-server-aws"
+  - type: npx
+    mcpServers:
+      mcp-server-aws:
+        command: "@smithery/cli"
+        args:
+          - "install"
+          - "mcp-server-aws"
+          - "--client"
+          - "claude"

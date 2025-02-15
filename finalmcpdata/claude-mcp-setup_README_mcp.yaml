@@ -1,0 +1,9 @@
+mcps:
+  type: setup
+  mcpConfig:
+    - mcpServers:
+        "@modelcontextprotocol/server-filesystem": {}
+        "@modelcontextprotocol/server-github": {"GIT_PAT_TOKEN": "ghp_your_token_here"}
+        "@modelcontextprotocol/server-brave-search": {"BRAVE_API_KEY": "BSA_your_key_here"}
+        "@abhiz123/todoist-mcp-server": {"TODOIST_API_TOKEN": "your_token_here"}
+        "mcp-server-sqlite": {}

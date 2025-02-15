@@ -1,0 +1,29 @@
+mcps:
+  type: ServerConfiguration
+  mcps:
+    mcpServers:
+      docker:
+        {
+          "mcpServers": 
+            {"docker": {"type": "docker", "status": "Working", "percentComplete": 100, "details": "The MCP can handle multiple incoming connections from CCPs, stations, and LED controllers. It listens for these connections on a designated UDP port (2001)."}}
+        }
+      npx:
+        {
+          "mcpServers": 
+            {"npx": {"type": "npx", "status": "Working", "percentComplete": 100, "details": "The MCP can log all significant events, including connection statuses, command executions, and error reports, for monitoring and debugging purposes."}}
+        }
+      uv:
+        {
+          "mcpServers": 
+            {"uv": {"type": "uv", "status": "Ongoing", "percentComplete": 50, "details": "The MCP can send basic initialization acknowledgments to CCPs. The MCP needs to handle full initialization sequences for stations and LED controllers, including error handling or confirmation mechanisms."}}
+        }
+      npm:
+        {
+          "mcpServers":
+            {"npm": {"type": "npm", "status": "Ongoing", "percentComplete": 40, "details": "The MCP can receive and log status updates from CCPs that include positional data. It needs to actively maintain a real-time map of the track, update Blade Runner positions dynamically."}}
+        }
+      other:
+        {
+          "mcpServers":
+            {"other": {"type": "other", "status": "Not Implemented", "percentComplete": 0, "details": "The MCP can manage block occupancy by ensuring that no two Blade Runners occupy the same block at the same time. The logic for managing block occupancy and detecting potential collisions has not yet been developed."}}
+        }

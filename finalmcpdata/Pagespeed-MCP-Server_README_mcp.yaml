@@ -1,0 +1,6 @@
+mcps:
+  type: docker
+  mcpServers:
+    pagespeed:
+      servers:
+        - {"command": "node", "args": ["path/to/mcp-pagespeed-server/dist/index.js"], "env": {}, "networks": []}

@@ -1,0 +1,20 @@
+mcps:
+  docker:
+    type: docker
+    mcpServers:
+      postgres:
+        command: "docker"
+        args:
+          - "run"
+          - "-i"
+          - "--rm"
+          - "mcp/postgres"
+          - "postgresql://host.docker.internal:5432/mydb"
+  npx:
+    type: npx
+    mcpServers:
+      postgres:
+        command: "@modelcontextprotocol/server-postgres"
+        args:
+          - "-y"
+          - "postgresql://localhost/mydb"

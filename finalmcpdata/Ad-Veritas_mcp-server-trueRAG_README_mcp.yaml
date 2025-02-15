@@ -1,0 +1,14 @@
+mcps:
+  - type: docker
+    mcpServers: {}
+  - type: uv
+    mcpServers:
+      shipping-policies:
+        command: uv
+        args:
+          - --directory
+          - {path_to_mcp_server}/mcp-server-trueRAG
+          - run
+          - fastmcp
+          - run
+          - server.py

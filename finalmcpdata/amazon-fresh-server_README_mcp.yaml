@@ -1,0 +1,9 @@
+mcps:
+  - type: docker
+    mcpServers:
+      amazon-fresh-server:
+        command: /path/to/amazon-fresh-server/build/index.js
+  - type: npx
+    mcpServers:
+      amazon-fresh-server:
+        command: npm run start

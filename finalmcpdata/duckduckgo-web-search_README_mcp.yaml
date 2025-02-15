@@ -1,0 +1,6 @@
+mcps:
+  duckduckgo-web-search:
+    type: npm
+    mcpServers:
+      "duckduckgo-web-search": 
+        command: "/path/to/duckduckgo-web-search/build/index.js"

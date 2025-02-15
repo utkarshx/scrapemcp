@@ -1,0 +1,11 @@
+mcps:
+  - type: npx
+    mcpServers:
+      face-generator:
+        parameters:
+          tool: generate_face
+          outputDir: './output'
+          count: 3
+          width: 512
+          height: 512
+          shape: circle

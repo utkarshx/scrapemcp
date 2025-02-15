@@ -1,0 +1,6 @@
+mcps:
+  mcps:
+    type: docker
+    mcpServers:
+      ex-mcp-test:
+        command: mix run --no-halt

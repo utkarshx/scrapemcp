@@ -1,0 +1,8 @@
+mcps:
+  type: mcpServers
+  mcpServers:
+    playwright:
+      command: npx
+      args:
+        - -y
+        - @automatalabs/mcp-server-playwright

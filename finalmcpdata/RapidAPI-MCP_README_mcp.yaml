@@ -1,0 +1,9 @@
+mcps:
+  - type: docker
+    mcpServers:
+      mcpServers:
+        - {
+            "mcpServers": [
+              {"rapidaApiKey": "<RAPIDAPI_KEY>", "dbPath": "./patents.db"}
+            ]
+          }

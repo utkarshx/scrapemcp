@@ -1,0 +1,14 @@
+mcps:
+  - type: docker
+    mcpServers: {}
+  - type: uv
+    mcpServers:
+      alphavantage:
+        command: uv
+        args:
+          - --directory
+          - "<DIRECTORY>/alphavantage"
+          - run
+          - alphavantage
+        env:
+          ALPHAVANTAGE_API_KEY: "YOUR_API_KEY_HERE"

@@ -1,0 +1,5 @@
+mcps:
+  type: docker
+  mcps:
+    - mcpServers:
+        "http://localhost:8000": {}

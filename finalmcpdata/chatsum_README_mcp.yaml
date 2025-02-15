@@ -1,0 +1,15 @@
+mcps:
+  - type: docker
+    mcpServers:
+      mcp-server-chatsum:
+        command: pnpm exec node
+        args: ["build/index.js", "--chat-db-path=path-to/mcp-server-chatsum/chatbot/data/chat.db"]
+        env:
+          CHAT_DB_PATH: "path-to/mcp-server-chatsum/chatbot/data/chat.db"
+  - type: npx
+    mcpServers:
+      mcp-server-chatsum:
+        command: npx
+        args: ["mcp-server-chatsum", "--chat-db-path=path-to/mcp-server-chatsum/chatbot/data/chat.db"]
+        env:
+          CHAT_DB_PATH: "path-to/mcp-server-chatsum/chatbot/data/chat.db"

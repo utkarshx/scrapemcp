@@ -1,0 +1,14 @@
+mcps:
+  type: docker
+  mcps:
+    - mcpServers:
+        "mcpServers": {
+          "server1": {
+            "url": "http://localhost:8080",
+            "protocolVersion": "v2"
+          },
+          "server2": {
+            "url": "http://localhost:9090",
+            "protocolVersion": "v3"
+          }
+        }

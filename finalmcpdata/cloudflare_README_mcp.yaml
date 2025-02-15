@@ -1,0 +1,4 @@
+mcps:
+  - type: docker
+    mcps:
+      - {"mcpServers": { "servers": [ "http://localhost:12345/mcp" ] }}

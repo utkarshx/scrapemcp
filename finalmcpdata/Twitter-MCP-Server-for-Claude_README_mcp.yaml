@@ -1,0 +1,11 @@
+mcps:
+  - type: docker
+    mcpServers:
+      twitter-trends:
+        command: C:\Users\YOUR_USERNAME\twitter-trends-mcp\.venv\Scripts\python.exe
+        args:
+          - C:\Users\YOUR_USERNAME\twitter-trends-mcp\twitter_server_run.py
+        env:
+          PYTHONPATH: C:\Users\YOUR_USERNAME\twitter-trends-mcp\src
+          PYTHONUNBUFFERED: '1'
+        cwd: C:\Users\YOUR_USERNAME\twitter-trends-mcp

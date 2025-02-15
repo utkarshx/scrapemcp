@@ -1,0 +1,7 @@
+mcps:
+  - type: docker
+    mcps:
+      - type: npx
+        mcpServers:
+          anki-mcp-server:
+            command: /path/to/anki-mcp-server/build/index.js

@@ -1,0 +1,7 @@
+mcps:
+  - type: uvx
+    mcpServers:
+      mcpServers: {}
+  - type: pip
+    mcpServers:
+      mcpServers: {}

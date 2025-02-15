@@ -1,0 +1,51 @@
+mcps:
+  type: UV Workspace Configuration
+  mcpservers:
+    brokerage_service:
+      command: uv
+      args:
+        - --directory
+        - "<path_to_portfolio_service>"
+        - run
+        - --package
+        - brokerage_service
+        - python
+        - brokerage_service/src/server.py
+      env:
+        IBKR_ACCOUNT_ID: your_account_id
+        IBKR_CLIENT_ID: 1
+        IBKR_HOST: 127.0.0.1
+        IBKR_PORT: 7496
+        TRADESTATION_API_KEY: your_api_key
+        TRADESTATION_API_SECRET: your_api_secret
+        TS_REFRESH_TOKEN: your_refresh_token
+        TS_ACCOUNT_ID: your_account_id
+    market_data_service:
+      command: uv
+      args:
+        - --directory
+        - "<path_to_portfolio_service>"
+        - run
+        - --package
+        - market_data_service
+        - python
+        - market_data_service/src/server.py
+      env:
+        TRADESTATION_API_KEY: your_api_key
+        TRADESTATION_API_SECRET: your_api_secret
+        TS_REFRESH_TOKEN: your_refresh_token
+        TS_ACCOUNT_ID: your_account_id
+        IBKR_ACCOUNT_ID: your_account_id
+        IBKR_CLIENT_ID: 2
+        IBKR_HOST: 127.0.0.1
+        IBKR_PORT: 7496
+    research_service:
+      command: uv
+      args:
+        - --directory
+        - "<path_to_portfolio_service>"
+        - run
+        - --package
+        - research_service
+        - python
+        - research_service/src/server.py

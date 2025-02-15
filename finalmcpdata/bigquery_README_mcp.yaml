@@ -1,0 +1,38 @@
+mcps:
+  docker:
+    type: npx
+    mcpServers:
+      bigquery:
+        command: "npx"
+        args:
+          - "-y"
+          - "@smithery/cli"
+          - "install"
+          - "mcp-server-bigquery"
+          - "--client"
+          - "claude"
+  uv:
+    type: uv
+    mcpServers:
+      bigquery:
+        command: "uv"
+        args:
+          - "--directory"
+          - "{{PATH_TO_REPO}}"
+          - "run"
+          - "mcp-server-bigquery"
+          - "--project"
+          - "{{GCP_PROJECT_ID}}"
+          - "--location"
+          - "{{GCP_LOCATION}}"
+  uvx:
+    type: uvx
+    mcpServers:
+      bigquery:
+        command: "uvx"
+        args:
+          - "mcp-server-bigquery"
+          - "--project"
+          - "{{GCP_PROJECT_ID}}"
+          - "--location"
+          - "{{GCP_LOCATION}}"

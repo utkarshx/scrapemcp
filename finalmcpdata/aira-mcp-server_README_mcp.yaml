@@ -1,0 +1,4 @@
+mcps:
+  - type: npm
+    mcps:
+      - {"mcpServers": {"aira": {"command": "node", "args": ["path/to/aira-mcp-server/build/index.js"]}}}

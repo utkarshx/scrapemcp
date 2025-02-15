@@ -1,0 +1,12 @@
+mcps:
+  type: applescript-mcp
+  mcpServers:
+    default:
+      docker:
+        image: joshrutkowski/applescript-mcp
+      uv:
+        executable: node
+        args: ["path/to/server/index.js", "args..."]
+      npx:
+        command: "@modelcontextprotocol/inspector"
+        args: ["node", "path/to/server/index.js", "args..."]

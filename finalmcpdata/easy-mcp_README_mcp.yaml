@@ -1,0 +1,8 @@
+mcps:
+  - type: express-like-api
+    mcpServers:
+      my-mcp-server:
+        version: "0.1.0"
+  - type: experimental-decorators-api
+    mcpServers:
+      myMCP: {}

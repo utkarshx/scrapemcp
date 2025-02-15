@@ -1,0 +1,16 @@
+mcps:
+  - type: docker
+    mcpServers: {}
+  - type: uv
+    mcpServers:
+      gdrive:
+        command: uv
+        args:
+          - --directory
+            "/[your-home-folder]/path/to/repo"
+          - run
+          - gmail
+          - --creds-file-path
+            "/[your-home-folder]/.google/client_creds.json"
+          - --token-path
+            "/[your-home-folder]/.google/app_tokens.json"

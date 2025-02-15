@@ -1,0 +1,8 @@
+mcps:
+  type: npm script
+  mcpServers:
+    xcodeBuild:
+      command: node
+      args: ["/path/to/the/xcode-mcp-server/build/index.js", "/path/to/your/project/folder"]
+      env:
+        PATH: /usr/bin:/bin:/usr/local/bin:/usr/sbin:/sbin

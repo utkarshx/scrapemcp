@@ -1,0 +1,5 @@
+mcps:
+  - type: npx
+    mcpServers:
+      - {"mcpServers": {"url": "packages/python", "name": "Python Edition"}}
+      - {"mcpServers": {"url": "packages/js/README.md", "name": "JavaScript Edition"}}

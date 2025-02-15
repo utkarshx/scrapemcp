@@ -1,0 +1,6 @@
+mcps:
+  type: mcpConfig
+  mcps:
+    - mcpServers:
+        playwright:
+          command: /path/to/deno2-playwright-mcp-server/playwright-server

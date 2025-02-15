@@ -1,0 +1,22 @@
+mcps:
+  - type: docker
+    mcpServers:
+      desktop-commander:
+        command: npx
+        args:
+          - "-y"
+          - "@wonderwhy-er/desktop-commander"
+  - type: uv
+    mcpServers:
+      desktop-commander:
+        command: npx
+        args:
+          - "-y"
+          - "@wonderwhy-er/desktop-commander"
+  - type: npm
+    mcpServers:
+      desktop-commander:
+        command: npx
+        args:
+          - "-y"
+          - "@wonderwhy-er/desktop-commander"

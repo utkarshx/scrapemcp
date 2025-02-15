@@ -1,0 +1,7 @@
+mcps:
+  type: azure-devops-mcp-server
+  mcpServers:
+    - name: azure-devops-api
+      settings:
+        mcpServers:
+          servers: []

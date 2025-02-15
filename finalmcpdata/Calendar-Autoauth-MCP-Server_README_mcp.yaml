@@ -1,0 +1,9 @@
+mcps:
+  type: Server Configuration
+  mcpsServers:
+    calendar:
+      mcpServers:
+        calendar:
+          command: npx
+          args:
+            - @gongrzhe/server-calendar-autoauth-mcp

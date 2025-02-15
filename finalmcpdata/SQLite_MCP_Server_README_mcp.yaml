@@ -1,0 +1,28 @@
+mcps:
+  uv:
+    type: docker
+    mcpServers:
+      sqlite:
+        command: uv
+        args:
+          - --directory
+          - parent_of_servers_repo/servers/src/sqlite
+          - run
+          - mcp-server-sqlite
+          - --db-path
+          - ~/test.db
+
+  docker:
+    type: docker
+    mcpServers:
+      sqlite:
+        command: docker
+        args:
+          - run
+          - --rm
+          - -i
+          - -v
+          - mcp-test:/mcp
+          - mcp/sqlite
+          - --db-path
+          - /mcp/test.db

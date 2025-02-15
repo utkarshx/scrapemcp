@@ -1,0 +1,21 @@
+mcps:
+  - type: docker
+    mcpServers:
+      apple-notes-mcp:
+        command: uvx
+        args:
+          - apple-notes-mcp
+
+  - type: npx
+    mcpServers:
+      apple-notes-mcp:
+        command: @modelcontextprotocol/inspector
+        args:
+          - uv --directory {project_dir} run apple-notes-mcp
+
+  - type: uv
+    mcpServers:
+      apple-notes-mcp:
+        command: uvx
+        args:
+          - apple-notes-mcp

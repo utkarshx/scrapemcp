@@ -1,0 +1,16 @@
+mcps:
+  type: json
+  content: |
+    {
+      "mcpServers": {
+        "pandoras-shell": {
+          "command": "%LOCALAPPDATA%\\AnthropicClaude\\Pandoras-Shell\\venv\\Scripts\\python.exe",
+          "args": [
+            "%LOCALAPPDATA%\\AnthropicClaude\\Pandoras-Shell\\src\\pandoras_shell\\executor.py"
+          ],
+          "env": {
+            "PYTHONPATH": "%LOCALAPPDATA%\\AnthropicClaude\\Pandoras-Shell\\src"
+          }
+        }
+      }
+    }

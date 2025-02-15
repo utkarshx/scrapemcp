@@ -1,0 +1,8 @@
+mcps:
+  type: docker
+  mcpServers:
+    ancestry:
+      command: mcp-server-ancestry
+      args:
+        - --gedcom-path
+        - "path/to/your/gedcom/files"

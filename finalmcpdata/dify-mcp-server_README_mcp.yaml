@@ -1,0 +1,7 @@
+mcps:
+  - type: docker
+    mcps:
+      - {"mcpServers": { "dify-server": { "command": "node", "args": ["your/path/dify-server/build/index.js"], "env": { "DIFY_API_KEY": "***" } } }}
+  - type: npx
+    mcps:
+      - {"mcpServers": { "dify-server": { "command": "node", "args": ["your/path/dify-server/build/index.js"], "env": { "DIFY_API_KEY": "***" } } }}

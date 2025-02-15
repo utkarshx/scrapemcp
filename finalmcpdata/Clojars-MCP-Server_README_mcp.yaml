@@ -1,0 +1,7 @@
+mcps:
+  type: mcp_servers_configurations
+  mcps:
+    - name: clojars-deps-server
+      command: node
+      args:
+        - /path/to/clojars-deps-server/build/index.js
