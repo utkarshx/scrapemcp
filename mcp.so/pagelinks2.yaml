@@ -1,0 +1,2406 @@
+links:
+  - category: Developer Tools
+    pageurl: /category/developer-tools
+    pageDetails:
+      - title: MCP Documentation Reference Server
+        href: /server/node-typescript-mcp
+        description: >-
+          An MCP server to assist with TypeScript and Node.js projects by
+          providing fast, structured search results from official documentation.
+        githubUrl: https://github.com/jskoiz/node-typescript-mcp
+      - title: My MCP Server
+        href: /server/my-mcp-server
+        description: ''
+        githubUrl: https://github.com/Alesion30/my-mcp-server
+      - title: Roam Research MCP Server
+        href: /server/roam-research-mcp
+        description: MCP Server for Roam Research Graph Integration
+        githubUrl: https://github.com/2b3pro/roam-research-mcp
+      - title: Shell MCP Server
+        href: /server/odysseus0_mcp-server-shell
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/odysseus0_mcp-server-shell
+      - title: MCP Server for Asana
+        href: /server/roychri_mcp-server-asana
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/roychri_mcp-server-asana
+      - title: mcpehelper-server
+        href: /server/shadowpants18_mcpehelper-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/shadowpants18_mcpehelper-server
+      - title: Illustrator MCP Server
+        href: /server/spencerhhubert_illustrator-mcp-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/spencerhhubert_illustrator-mcp-server
+      - title: GitHub MCP Server Practice Repository
+        href: /server/soso0024_github-mcp-server-practice
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/soso0024_github-mcp-server-practice
+      - title: Notion MCP Server
+        href: /server/suekou_mcp-notion-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/suekou_mcp-notion-server
+      - title: OpenAPI MCP Server
+        href: /server/snaggle-ai_openapi-mcp-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/snaggle-ai_openapi-mcp-server
+      - title: Gmail AutoAuth MCP Server
+        href: /server/Gmail-MCP-Server
+        description: ''
+        githubUrl: https://github.com/GongRzhe/Gmail-MCP-Server
+      - title: Glide API MCP Server
+        href: /server/glide-api-mcp-server
+        description: Model Context Protocol (MCP) server for
+        githubUrl: https://github.com/knmurphy/glide-api-mcp-server
+      - title: FireCrawl MCP Server
+        href: /server/vrknetha_mcp-server-firecrawl
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/vrknetha_mcp-server-firecrawl
+      - title: My first MCP server
+        href: /server/yusukebe_my-first-mcp-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/yusukebe_my-first-mcp-server
+      - title: Google Workspace MCP Server
+        href: /server/epaproditus_google-workspace-mcp-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/epaproditus_google-workspace-mcp-server
+      - title: YouTube Watch Later MCP Server
+        href: /server/youtube-watchlater-mcp
+        description: MCP server for accessing YouTube Watch Later playlist
+        githubUrl: https://github.com/rados10/youtube-watchlater-mcp
+      - title: Toolhouse MCP Server
+        href: /server/toolhouse-community_mcp-server-toolhouse
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/toolhouse-community_mcp-server-toolhouse
+      - title: Azure DevOps MCP Server by Zubeid Hendricks
+        href: /server/azure-mcp-server
+        description: >-
+          MCP Server for the Azure DevOps API, enabling project management,
+          repository operations, and more.
+        githubUrl: https://github.com/ZubeidHendricks/azure-mcp-server
+      - title: Azure DevOps MCP Server by Zubeid Hendricks
+        href: /server/azure-devops-mcp-server-2024
+        description: >-
+          MCP Server for the Azure DevOps API, enabling project management,
+          repository operations, and more.
+        githubUrl: https://github.com/ZubeidHendricks/azure-devops-mcp-server-2024
+      - title: MCP File Preview Server
+        href: /server/mcp-file-preview
+        description: >-
+          MCP server for HTML file preview and analysis - Has been weird with OS
+          but good on Cline so WIP
+        githubUrl: https://github.com/seanivore/mcp-file-preview
+      - title: mcp-use-didwba
+        href: /server/mcp-use-didwba
+        description: >-
+          An example of an MCP client and server using didwba as the
+          authentication technology.
+        githubUrl: https://github.com/chgaowei/mcp-use-didwba
+      - title: Enhanced Development Environment with MCP Servers
+        href: /server/enhanced-dev-env
+        description: >-
+          Enhanced development environment with MCP servers, UV package manager,
+          and Open Interpreter
+        githubUrl: https://github.com/danmarauda/enhanced-dev-env
+      - title: MCP SQLite Server
+        href: /server/mcp-server-sqlite-npx
+        description: ''
+        githubUrl: https://github.com/johnnyoshika/mcp-server-sqlite-npx
+      - title: Upstash MCP Server
+        href: /server/mcp-server-upstash
+        description: Upstash Model Context Server
+        githubUrl: https://github.com/upstash/mcp-server-upstash
+      - title: Perplexity MCP Server
+        href: /server/mcp-perplexity-server
+        description: ''
+        githubUrl: https://github.com/PoliTwit1984/mcp-perplexity-server
+      - title: OneNote MCP Server
+        href: /server/azure-onenote-mcp-server
+        description: ''
+        githubUrl: https://github.com/ZubeidHendricks/azure-onenote-mcp-server
+      - title: dify-server MCP 服务器
+        href: /server/dify-mcp-server
+        description: A Model Context Protocol server for Dify
+        githubUrl: https://github.com/AI-FE/dify-mcp-server
+      - title: Hacker News MCP Server
+        href: /server/hn-server
+        description: Hacker news MCP server
+        githubUrl: https://github.com/pskill9/hn-server
+      - title: Paperless-NGX MCP Server
+        href: /server/paperless-mcp
+        description: >-
+          An MCP (Model Context Protocol) server for interacting with a
+          Paperless-NGX API server. This server provides tools for managing
+          documents, tags, correspondents, and document types in your
+          Paperless-NGX instance.
+        githubUrl: https://github.com/nloui/paperless-mcp
+      - title: resource-hub-server
+        href: /server/resource-hub-server
+        description: An MCP proxy server to connect to the resource hub
+        githubUrl: https://github.com/adamwattis/resource-hub-server
+      - title: Discord MCP Server
+        href: /server/mcp-discord
+        description: MCP server for discord bot
+        githubUrl: https://github.com/hanweg/mcp-discord
+      - title: Supergateway
+        href: /server/supergateway
+        description: Run MCP stdio servers over SSE.
+        githubUrl: https://github.com/supercorp-ai/supergateway
+      - title: MCP Server for ArangoDB
+        href: /server/mcp-server-arangodb
+        description: ''
+        githubUrl: https://github.com/ravenwits/mcp-server-arangodb
+      - title: QuickBooks Time MCP Server (Combined)
+        href: /server/aallsbury_qb-time-mcp-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/aallsbury_qb-time-mcp-server
+      - title: MCP REST API Tester
+        href: /server/mcp-rest-api
+        description: >-
+          A TypeScript-based MCP server that enables testing of REST APIs
+          through Cline. This tool allows you to test and interact with any REST
+          API endpoints directly from your development environment.
+        githubUrl: https://github.com/dkmaker/mcp-rest-api
+      - title: easy-mcp
+        href: /server/easy-mcp
+        description: Absurdly easy Model Context Protocol Servers in Typescript
+        githubUrl: https://github.com/zcaceres/easy-mcp
+      - title: Model Context Protocol (MCP) Server for GraphQL Policies API
+        href: /server/Ad-Veritas_mcp-server-trueRAG
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/Ad-Veritas_mcp-server-trueRAG
+      - title: Shortcut MCP Server
+        href: /server/shortcut-mcp-server
+        description: >-
+          A Message Control Protocol server implementation for Shortcut project
+          management integration
+        githubUrl: https://github.com/davidteren/shortcut-mcp-server
+      - title: MCP GitHub Issue Server
+        href: /server/mcp-github-issue
+        description: >-
+          An MCP server that provides LLMs with the ability to use GitHub issues
+          as tasks
+        githubUrl: https://github.com/sammcj/mcp-github-issue
+      - title: Package Documentation MCP Server
+        href: /server/mcp-package-docs
+        description: >-
+          An MCP server that provides LLMs with efficient access to package
+          documentation across multiple programming languages
+        githubUrl: https://github.com/sammcj/mcp-package-docs
+      - title: Figma MCP Server
+        href: /server/figma-mcp-server
+        description: Model Context Protocol server implementation for Figma API
+        githubUrl: https://github.com/TimHolden/figma-mcp-server
+      - title: Webtools MCP Server
+        href: /server/webtools-mcp-server
+        description: ''
+        githubUrl: https://github.com/misterboe/webtools-mcp-server
+      - title: Strapi MCP Server
+        href: /server/strapi-mcp-server
+        description: ''
+        githubUrl: https://github.com/misterboe/strapi-mcp-server
+      - title: web-search-mcp
+        href: /server/web-search-mcp
+        description: MCP server for web searches
+        githubUrl: https://github.com/muka/web-search-mcp
+      - title: piapi-mcp-server
+        href: /server/piapi-mcp-server
+        description: >-
+          A TypeScript implementation of a Model Context Protocol (MCP) server
+          that integrates with PiAPI's API. PiAPI makes user able to generate
+          media content with Midjourney/Flux/Kling/LumaLabs/Udio/Chrip/Trellis
+          directly from Claude or any other MCP-compatible apps.
+        githubUrl: https://github.com/apinetwork/piapi-mcp-server
+      - title: Hacker News MCP Server
+        href: /server/mcp-hn
+        description: MCP Server for Hackernews
+        githubUrl: https://github.com/erithwik/mcp-hn
+      - title: Mcp Difyworkflow Server
+        href: /server/mcp-difyworkflow-server
+        description: >-
+          mcp-difyworkflow-server is an mcp server Tools application that
+          implements the query and invocation of Dify workflows, supporting the
+          on-demand operation of multiple custom Dify workflows.
+        githubUrl: https://github.com/gotoolkits/mcp-difyworkflow-server
+      - title: SearxNG MCP Server
+        href: /server/mcp-searxng
+        description: MCP Server for SearXNG
+        githubUrl: https://github.com/ihor-sokoliuk/mcp-searxng
+      - title: mcp-proxy
+        href: /server/mcp-proxy
+        description: >-
+          Connect to MCP servers that run on SSE transport, or expose stdio
+          servers as an SSE server using the MCP Proxy server.
+        githubUrl: https://github.com/sparfenyuk/mcp-proxy
+      - title: aivengers-mcp MCP server
+        href: /server/aivengers-mcp
+        description: >-
+          MCP server with dynamic tool searching/calling using AIvengers smart
+          tools
+        githubUrl: https://github.com/agiverse/aivengers-mcp
+      - title: MCP Orchestrator Server
+        href: /server/orchestrator-server
+        description: small MCP server for orchestrating tasks across LLM instances
+        githubUrl: https://github.com/mokafari/orchestrator-server
+      - title: Google Workspace MCP Server
+        href: /server/google-workspace-mcp-server
+        description: >-
+          A Model Context Protocol server for Google Workspace integration
+          (Gmail and Calendar)
+        githubUrl: https://github.com/epaproditus/google-workspace-mcp-server
+      - title: WordPress MCP Server
+        href: /server/wordpress-mcp-server
+        description: This MCP server let you automate interactions with Wordpress
+        githubUrl: https://github.com/stefans71/wordpress-mcp-server
+      - title: Rambling-Thought-Trail
+        href: /server/Rambling-Thought-Trail
+        description: Taking the sequential thinking mcp server and prodding it onwards.
+        githubUrl: https://github.com/prdnr/Rambling-Thought-Trail
+      - title: Git MCP Server
+        href: /server/git-mcp-server
+        description: >-
+          A Model Context Protocol (MCP) server to provide git tools for LLM
+          Agents
+        githubUrl: https://github.com/cyanheads/git-mcp-server
+      - title: Obsidian MCP REST Server
+        href: /server/obsidian-mcp-rest
+        description: An MCP server implementation for accessing Obsidian via local REST API
+        githubUrl: https://github.com/PublikPrinciple/obsidian-mcp-rest
+      - title: perplexity-server MCP Server
+        href: /server/perplexity-server
+        description: Perplexity MCP Server for Cline
+        githubUrl: https://github.com/zenturacp/perplexity-server
+      - title: Model Context Protocol Daemon
+        href: /server/mcpd
+        description: >-
+          Model Context Protocol Daemon - a tool for installing, running and
+          managing MCP servers
+        githubUrl: https://github.com/Pixeladed/mcpd
+      - title: MCP GitLab Review Server
+        href: /server/gitlab_review
+        description: gitlabでレビュー用のMCP Server
+        githubUrl: https://github.com/Photosynth-inc/gitlab_review
+      - title: Toolhouse MCP Server
+        href: /server/mcp-server-toolhouse
+        description: ''
+        githubUrl: https://github.com/toolhouse-community/mcp-server-toolhouse
+      - title: Test Repository
+        href: /server/test-repo
+        description: A test repository created via MCP server
+        githubUrl: https://github.com/p0735330/test-repo
+      - title: Shell and Coding agent for Claude and Chatgpt
+        href: /server/wcgw
+        description: Shell and coding agent on claude desktop app
+        githubUrl: https://github.com/rusiaaman/wcgw
+      - title: mcp-software-consultant
+        href: /server/mcp-software-consultant
+        description: >-
+          A CLI tool, MCP server, and vscode extension that allows Cline to ask
+          an external specialized consultant for help
+        githubUrl: https://github.com/delorenj/mcp-software-consultant
+      - title: MCPRules - Programming Guidelines Management Server
+        href: /server/MCPRules
+        description: >-
+          A powerful Model Context Protocol (MCP) server that manages and serves
+          programming guidelines and rules. This server integrates with
+          development tools to provide consistent coding standards across
+          projects.
+        githubUrl: https://github.com/bartwisch/MCPRules
+      - title: Template Redmine Plugin
+        href: /server/redmine_mcp_server
+        description: ''
+        githubUrl: https://github.com/9506hqwy/redmine_mcp_server
+      - title: 🎯 GitHub Kanban MCP Server
+        href: /server/github-kanban-mcp-server
+        description: ''
+        githubUrl: https://github.com/Sunwood-ai-labs/github-kanban-mcp-server
+      - title: MCP Intercom Server
+        href: /server/mcp-intercom
+        description: MCP server for Intercom chat integration
+        githubUrl: https://github.com/fabian1710/mcp-intercom
+      - title: search-fetch-server MCP Server
+        href: /server/search-fetch-server-mcp
+        description: ''
+        githubUrl: https://github.com/nexon33/search-fetch-server-mcp
+      - title: Zendesk MCP Server
+        href: /server/zendesk-mcp-server
+        description: A Model Context Protocol server for Zendesk
+        githubUrl: https://github.com/reminia/zendesk-mcp-server
+      - title: MCP Server Make
+        href: /server/mcp-server-make
+        description: 'MCP Server for GNU Make (STATUS: ALPHA)'
+        githubUrl: https://github.com/wrale/mcp-server-make
+      - title: evm-server MCP Server
+        href: /server/mcp-server-template
+        description: ''
+        githubUrl: https://github.com/pythonpete32/mcp-server-template
+      - title: MCP Guide Server (v0.1.4)
+        href: /server/mcp-guide
+        description: >-
+          A beginner-friendly guide server that helps users understand MCP
+          concepts, provides interactive examples, and demonstrates best
+          practices for building MCP integrations. Features tools for exploring
+          MCP capabilities, resources for learning core concepts, and prompts
+          for guided tutorials.
+        githubUrl: https://github.com/qpd-v/mcp-guide
+      - title: Maven Dependencies MCP Server
+        href: /server/maven-mcp-server
+        description: >-
+          An MCP (Model Context Protocol) server that provides tools for
+          checking Maven dependency versions.
+        githubUrl: https://github.com/Bigsy/maven-mcp-server
+      - title: AWS MCP
+        href: /server/aws-mcp
+        description: >-
+          Talk with your AWS using Claude. Model Context Protocol (MCP) server
+          for AWS. Better Amazon Q alternative.
+        githubUrl: https://github.com/RafalWilinski/aws-mcp
+      - title: oatpp-mcp
+        href: /server/oatpp-mcp
+        description: Anthropic’s Model Context Protocol implementation for Oat++
+        githubUrl: https://github.com/oatpp/oatpp-mcp
+      - title: MCP server for kintone
+        href: /server/mcp-server-kintone
+        description: MCP server for kintone
+        githubUrl: https://github.com/macrat/mcp-server-kintone
+      - title: aira-mcp-server MCP Server
+        href: /server/aira-mcp-server
+        description: ''
+        githubUrl: https://github.com/Sunwood-ai-labs/aira-mcp-server
+      - title: Huntress API MCP Server
+        href: /server/huntress-mcp-server
+        description: MCP server for Huntress API integration
+        githubUrl: https://github.com/DynamicEndpoints/huntress-mcp-server
+      - title: language-server-mcp MCP Server
+        href: /server/language-server-mcp
+        description: ''
+        githubUrl: https://github.com/alexwohletz/language-server-mcp
+      - title: MCPM CLI
+        href: /server/mcpm
+        description: A command-line tool for managing MCP servers in Claude App.
+        githubUrl: https://github.com/MCP-Club/mcpm
+      - title: mcp-langchain-ts-client
+        href: /server/mcp-langchain-ts-client
+        description: LangChain.js client for Model Context Protocol.
+        githubUrl: https://github.com/isaacwasserman/mcp-langchain-ts-client
+      - title: Postman MCP Server
+        href: /server/postman-mcp-server
+        description: An MCP server that provides access to Postman.
+        githubUrl: https://github.com/delano/postman-mcp-server
+      - title: 'Model Context Protocol and Fireproof Demo: JSON Document Server'
+        href: /server/mcp-database-server
+        description: Store and load JSON documents from LLM tool use
+        githubUrl: https://github.com/fireproof-storage/mcp-database-server
+      - title: mcp-mananger-desktop
+        href: /server/mcp-manager-desktop
+        description: >-
+          WIP: A MCP server to search, install, uninstall all your MCP servers
+          or services for your Claude App (or more)
+        githubUrl: https://github.com/MCP-Club/mcp-manager-desktop
+      - title: Notion MCP Integration
+        href: /server/Notion_MCP_advanced
+        description: >-
+          Notion MCP Integration is a lightweight Model Context Protocol (MCP)
+          server that seamlessly integrates with Notion's API to manage a
+          minimalist personal to-do list through Claude. This project provides
+          basic functionality tailored specifically for a simple Notion database
+          structure, enabling efficient task management without unnecessary
+          complexity.
+        githubUrl: https://github.com/Ruijian-Zha/Notion_MCP_advanced
+      - title: Mcp Server Diceroll
+        href: /server/mcp-server-diceroll
+        description: Dice Roll Server for Model Context Protocol
+        githubUrl: https://github.com/fumieval/mcp-server-diceroll
+      - title: MCPHub 🚀
+        href: /server/mcphub
+        description: >-
+          MCPHub - A cross-platform GUI application to discover, install, and
+          manage Model Context Protocol (MCP) servers. Think of it as apt/pip
+          but for MCP servers.
+        githubUrl: https://github.com/hemangjoshi37a/mcphub
+      - title: Run the MCP Client
+        href: /server/mcp-client-server
+        description: ''
+        githubUrl: https://github.com/dazzaji/mcp-client-server
+      - title: Gemini MCP Server
+        href: /server/mcp-server-gemini
+        description: MCP server implementation for Google's Gemini API
+        githubUrl: https://github.com/aliargun/mcp-server-gemini
+      - title: ATLAS MCP Server
+        href: /server/atlas-mcp-server
+        description: >-
+          Model Context Protocol (MCP) server to facilitate task management and
+          organization for LLMs
+        githubUrl: https://github.com/cyanheads/atlas-mcp-server
+      - title: Package Version MCP Server
+        href: /server/mcp-package-version
+        description: >-
+          An MCP server that provides LLMs with the latest stable package
+          versions when coding
+        githubUrl: https://github.com/sammcj/mcp-package-version
+      - title: Canvas MCP Server
+        href: /server/mcp-canvas-lms
+        description: >-
+          A Model Context Protocol (MCP) server for interacting with the Canvas
+          API. This server allows you to manage courses, assignments,
+          enrollments, and grades within Canvas.
+        githubUrl: https://github.com/DMontgomery40/mcp-canvas-lms
+      - title: mcp-server-skyfire
+        href: /server/mcp-server-skyfire
+        description: ''
+        githubUrl: https://github.com/0xtotaylor/mcp-server-skyfire
+      - title: GitHub Project Manager MCP
+        href: /server/mcp-github-project-manager
+        description: a mcp server for complete github project functionality
+        githubUrl: https://github.com/kunwarVivek/mcp-github-project-manager
+      - title: MCP API Connect
+        href: /server/mcp-api-expert
+        description: MCP server that enables MCP to make REST API calls
+        githubUrl: https://github.com/jwaldor/mcp-api-expert
+      - title: Exa MCP Server
+        href: /server/exa-server
+        description: >-
+          AI-powered code search MCP server using Exa API for intelligent code
+          search and retrieval in AI assistants
+        githubUrl: https://github.com/it-beard/exa-server
+      - title: Headless Code Editor MCP Server
+        href: /server/headless-editor-mcp
+        description: Headless Editor MCP Server for intelligent code editing
+        githubUrl: https://github.com/oakenai/headless-editor-mcp
+      - title: Google Drive server
+        href: /server/mcp-gdrive
+        description: >-
+          Model Context Protocol (MCP) Server for reading from Google Drive and
+          editing Google Sheets
+        githubUrl: https://github.com/isaacphi/mcp-gdrive
+      - title: '@qpd-v/mcp-delete'
+        href: /server/mcp-delete
+        description: >-
+          A Model Context Protocol (MCP) server that provides file deletion
+          capabilities for AI assistants. Supports both relative and absolute
+          paths with smart path resolution, making it easy for AI assistants to
+          safely delete files when needed.
+        githubUrl: https://github.com/qpd-v/mcp-delete
+      - title: App Store Connect MCP Server
+        href: /server/app-store-connect-mcp-server
+        description: ''
+        githubUrl: https://github.com/JoshuaRileyDev/app-store-connect-mcp-server
+      - title: iOS Simulator MCP Server
+        href: /server/simulator-mcp-server
+        description: ''
+        githubUrl: https://github.com/JoshuaRileyDev/simulator-mcp-server
+      - title: MCP Text Editor Server
+        href: /server/mcp-text-editor
+        description: ''
+        githubUrl: https://github.com/tumf/mcp-text-editor
+      - title: Go MCP Framework
+        href: /server/mcp
+        description: >-
+          A Go framework for building Model Context Protocol (MCP) servers that
+          enable Large Language Models (LLMs) to securely access tools and data
+          sources.
+        githubUrl: https://github.com/gomcpgo/mcp
+      - title: Instagram MCP Server
+        href: /server/instagram-server-next-mcp
+        description: ''
+        githubUrl: https://github.com/duhlink/instagram-server-next-mcp
+      - title: Clojars MCP Server
+        href: /server/Clojars-MCP-Server
+        description: >-
+          A Model Context Protocol (MCP) server that provides tools for fetching
+          dependency information from Clojars, the Clojure community's artifact
+          repository.
+        githubUrl: https://github.com/Bigsy/Clojars-MCP-Server
+      - title: Summarization Functions
+        href: /server/mcp-summarization-functions
+        description: >-
+          Provides summarised output from various actions that could otherwise
+          eat up tokens and cause crashes for AI agents
+        githubUrl: https://github.com/Braffolk/mcp-summarization-functions
+      - title: Airtable MCP Server
+        href: /server/airtable-mcp-server
+        description: >-
+          An MCP server for interacting with Airtable - create, list, and search
+          records, bases, and tables.
+        githubUrl: https://github.com/felores/airtable-mcp-server
+      - title: vigilant-adventure
+        href: /server/vigilant-adventure
+        description: >-
+          hey,i wanted to play with some mods but when i try to open the game it
+          says; The game crashed whilst initializing game Error:
+          java.lang.NoClassDefFoundError: cpw/mods/fml/common/IPlayerTracker
+          Exit Code: -1 what can i do to make it work?the log is; ---- Minecraft
+          Crash Report ---- WARNING: coremods are present: MekanismCoremod
+          (Mekanism-1.12.2-9…
+        githubUrl: https://github.com/chuckmen/vigilant-adventure
+      - title: OPENAPI Specifications => MCP (Model Context Protocol) Tools
+        href: /server/openapi2mcptools
+        description: OpenAPI specifications => MCP (Model Context Protocol) tools
+        githubUrl: https://github.com/2013xile/openapi2mcptools
+      - title: Model-Context-Protocol
+        href: /server/Model-Context-Protocol
+        description: >-
+          MCP implementation code that sets up the server, integrates the LLaMA
+          model for summarization, and serves it via a Flask application.
+        githubUrl: https://github.com/Vijayk-213/Model-Context-Protocol
+      - title: Notion MCP Server
+        href: /server/notion-mcp
+        description: >-
+          A Model Context Protocol (MCP) server implementation for Notion
+          integration, providing a standardized interface for interacting with
+          Notion's API.
+        githubUrl: https://github.com/ccabanillas/notion-mcp
+      - title: Luke Desktop
+        href: /server/luke-desktop
+        description: >-
+          A modern desktop client for Claude AI with MCP server support, built
+          with Tauri, React, and TypeScript.
+        githubUrl: https://github.com/DrJonBrock/luke-desktop
+      - title: Mcp Aoai Web Browsing
+        href: /server/mcp-aoai-web-browsing
+        description: >-
+          A minimal Model Context Protocol 🖥️ server/client🧑‍💻with Azure
+          OpenAI and 🌐 web browser control via Playwright.
+        githubUrl: https://github.com/kimtth/mcp-aoai-web-browsing
+      - title: duckduckgo-web-search MCP Server
+        href: /server/duckduckgo-web-search
+        description: >-
+          DuckDuckGo Web Search MCP Server - A simple web search implementation
+          for Claude Desktop using DuckDuckGo API
+        githubUrl: https://github.com/Sunwood-ai-labs/duckduckgo-web-search
+      - title: WCGW
+        href: /server/wcgw-vscode
+        description: >-
+          Send code snippet and paths to Claude. Designed to work with wcgw mcp
+          server.
+        githubUrl: https://github.com/rusiaaman/wcgw-vscode
+      - title: MCP Chat Demo
+        href: /server/mcp-chat-demo
+        description: >-
+          A sample chat application demonstrating integration with Model Context
+          Protocol (MCP) servers
+        githubUrl: https://github.com/ehartye/mcp-chat-demo
+      - title: Istio MCP-over-XDSv3 server sample
+        href: /server/istio-mcp-sample
+        description: A sample implementation of a MCP-over-XDSv3 gRPC server for Istio.
+        githubUrl: https://github.com/antoineco/istio-mcp-sample
+      - title: MCP Pocket
+        href: /server/mcp-pocket
+        description: >-
+          🔗 Model Context Protocol (MCP) Server for retrieving saved articles
+          from Pocket API and loading them into Claude
+        githubUrl: https://github.com/kazuph/mcp-pocket
+      - title: MCP Substack Server
+        href: /server/mcp-substack
+        description: >-
+          🤖 MCP Server for Substack integration with Claude AI Desktop.
+          Download and parse Substack posts directly in your Claude
+          conversations.
+        githubUrl: https://github.com/michalnaka/mcp-substack
+      - title: alphaguts
+        href: /server/alphaguts
+        description: A minecraft alpha 1.2.6 server API using Retro MCP
+        githubUrl: https://github.com/amir16yp/alphaguts
+      - title: Slack Mcp Bot Integration
+        href: /server/slack-mcp-bot-integration
+        description: 'WIP: Simple MCP (Model Context Protocol) server example for Slack'
+        githubUrl: https://github.com/seratch/slack-mcp-bot-integration
+      - title: Claude Mcp Test
+        href: /server/claude-mcp-test
+        description: Test repository created via claude-desktop with github MCP server
+        githubUrl: https://github.com/devacse/claude-mcp-test
+      - title: Contentful MCP Server
+        href: /server/contentful-mcp
+        description: MCP (Model Context Protocol) server for the Contentful Management API
+        githubUrl: https://github.com/ivo-toby/contentful-mcp
+      - title: Java-MCPlugin-ChallengeServerBungeePlugin
+        href: /server/Java-MCPlugin-ChallengeServerBungeePlugin
+        description: The Java Minecraft Plugin (BungeeCord) for the Challenge Server.
+        githubUrl: https://github.com/Nikogenia/Java-MCPlugin-ChallengeServerBungeePlugin
+      - title: Mod-Coder-Pack-1.16.1
+        href: /server/Optifine-Mod-Coder-Pack-1.16.1
+        description: >-
+          A Mod Coder Pack [ MCP ] For Minecraft For Making A Client OR Server,
+          Created From Hextemption MCP Repository
+        githubUrl: https://github.com/Nishant1500/Optifine-Mod-Coder-Pack-1.16.1
+      - title: mcp-datetime
+        href: /server/mcp-datetime
+        description: A MCP server for datetime formatting and file name generation.
+        githubUrl: https://github.com/ZeparHyfar/mcp-datetime
+      - title: >-
+          WIP: Caution!!! AI code and probably wrong in many ways though it
+          "runs".
+        href: /server/workspace-db-manager
+        description: >-
+          TypeScript MCP server for managing workspace databases with filesystem
+          integration
+        githubUrl: https://github.com/angrysky56/workspace-db-manager
+      - title: Docker image for the MCP Everything server with SSE transport
+        href: /server/mcp-everything-server-docker-image
+        description: Docker image for the MCP everything server with SSE transport
+        githubUrl: https://github.com/tzolov/mcp-everything-server-docker-image
+      - title: Simple MCP Server Example
+        href: /server/mcp-server-example-v2
+        description: A simple example of a Model Context Protocol Server implementation
+        githubUrl: https://github.com/dabouelhassan/mcp-server-example-v2
+      - title: Terminal MCP Server
+        href: /server/terminal
+        description: MCP server for executing terminal commands through Claude Desktop
+        githubUrl: https://github.com/stat-guy/terminal
+      - title: go-mcp-server-service
+        href: /server/go-mcp-server-service
+        description: >-
+          A JSON-RPC 2.0 compliant server implementing the Model Context
+          Protocol (MCP) for note management (as an example)
+        githubUrl: https://github.com/AndrewDonelson/go-mcp-server-service
+      - title: Web Browser Mcp Server
+        href: /server/web-browser-mcp-server
+        description: >-
+          A Minimum Control Program (MCP) server implementation for web browsing
+          capabilities using BeautifulSoup4
+        githubUrl: https://github.com/blazickjp/web-browser-mcp-server
+      - title: local-command-server MCP Server
+        href: /server/mcp-local-command-server
+        description: >-
+          A TypeScript-based MCP server that executes commands and returns
+          structured outputs.
+        githubUrl: https://github.com/kentaro/mcp-local-command-server
+      - title: test-server MCP server
+        href: /server/test-python-mcp-server
+        description: ''
+        githubUrl: https://github.com/jtorreggiani/test-python-mcp-server
+      - title: isolated-commands-mcp-server MCP Server
+        href: /server/isolated-commands-mcp-server
+        description: ''
+        githubUrl: https://github.com/mikegehard/isolated-commands-mcp-server
+      - title: My first MCP server
+        href: /server/my-first-mcp-server
+        description: ''
+        githubUrl: https://github.com/yusukebe/my-first-mcp-server
+      - title: MCP GitHub Repository Server
+        href: /server/mcp-server-github-repo
+        description: MCP server for interacting with a github repo
+        githubUrl: https://github.com/loglmhq/mcp-server-github-repo
+      - title: Claude MCP Server Test
+        href: /server/Claude-MCP-server-test
+        description: A simple coming soon website for testing
+        githubUrl: https://github.com/sudhanbhandari0/Claude-MCP-server-test
+      - title: cmd-line-executor MCP server
+        href: /server/cmd-line-executor-MCP
+        description: Experimental MCP server to execute command line commands
+        githubUrl: https://github.com/MarkusPfundstein/cmd-line-executor-MCP
+      - title: MCP Server File Modifier
+        href: /server/mcp-server-file-modifier
+        description: Model Context Protocol server for file modifications and control
+        githubUrl: https://github.com/jpinillagoshawk/mcp-server-file-modifier
+      - title: mcp-client-and-server MCP server
+        href: /server/mcp-client-and-server
+        description: ''
+        githubUrl: https://github.com/non-dirty/mcp-client-and-server
+      - title: mcp-server-modal
+        href: /server/mcp-server-modal
+        description: ''
+        githubUrl: https://github.com/Flux159/mcp-server-modal
+      - title: Mcp Server Kusto
+        href: /server/mcp-server-kusto
+        description: A mcp server that uses azure data explorer as a backend
+        githubUrl: https://github.com/ZZZHDW/mcp-server-kusto
+      - title: 'mcp-dice: A MCP Server for Rolling Dice'
+        href: /server/mcp-dice
+        description: A MCP server enabling LLMs to roll dice
+        githubUrl: https://github.com/yamaton/mcp-dice
+      - title: comfy-ui-mcp-server MCP server
+        href: /server/comfy-ui-mcp-server
+        description: what it says on the tin
+        githubUrl: https://github.com/jonpojonpo/comfy-ui-mcp-server
+      - title: mcp-server-on-raspi MCP server
+        href: /server/mcp-server-on-raspi
+        description: ''
+        githubUrl: https://github.com/daikw/mcp-server-on-raspi
+      - title: SmallCloud MCP Server Demo
+        href: /server/smallcloud-mcp-server
+        description: >-
+          SmallCloud MCP Server Demonstration of an Anthropic MCP server using
+          the Model Context Protocol SDK by Anthropic. For use with Claude
+          Desktop and other MCP Hosts.
+        githubUrl: https://github.com/SmallCloudCo/smallcloud-mcp-server
+      - title: MCP Development Server
+        href: /server/mcp-dev-server
+        description: ''
+        githubUrl: https://github.com/dillip285/mcp-dev-server
+      - title: Quarkus Model Context Protocol (MCP) Server
+        href: /server/quarkus-mcp-server
+        description: >-
+          This extension enables developers to implement the MCP server features
+          easily.
+        githubUrl: https://github.com/quarkiverse/quarkus-mcp-server
+      - title: convex-mcp-server MCP Server
+        href: /server/convex-mcp-server
+        description: ''
+        githubUrl: https://github.com/handfuloflight/convex-mcp-server
+      - title: MCP Server Runner
+        href: /server/mcp-server-runner
+        description: >-
+          A WebSocket server implementation for running Model Context Protocol
+          (MCP) servers. This application enables MCP servers to be accessed via
+          WebSocket connections, facilitating integration with web applications
+          and other network-enabled clients.
+        githubUrl: https://github.com/yonaka15/mcp-server-runner
+      - title: Perplexity MCP Server
+        href: /server/perplexity-mcp-server
+        description: >-
+          This Model Context Protocol (MCP) server enables LLMs like Claude to
+          perform internet research using the Perplexity API. It provides
+          real-time, up-to-date information with source citations.
+        githubUrl: https://github.com/gomcpgo/perplexity-mcp-server
+      - title: Illustrator MCP Server
+        href: /server/illustrator-mcp-server
+        description: mcp server to run scripts on adobe illustrator
+        githubUrl: https://github.com/spencerhhubert/illustrator-mcp-server
+      - title: BOLD MCP Server
+        href: /server/mcp-server-bold
+        description: MCP Server to connect local LLMs to BOLD Rest API
+        githubUrl: https://github.com/Lespernater/mcp-server-bold
+      - title: MCP Server Replicate
+        href: /server/mcp-server-replicate
+        description: ''
+        githubUrl: https://github.com/gerred/mcp-server-replicate
+      - title: LibSQL Model Context Protocol Server
+        href: /server/mcp-server-libsql
+        description: Model Context Protocol server for libsql
+        githubUrl: https://github.com/nicholasq/mcp-server-libsql
+      - title: clickup-operator MCP server
+        href: /server/mcp-server-clickup
+        description: >-
+          Model Context Protocol (MCP) server implementation for ClickUp
+          integration
+        githubUrl: https://github.com/noahvanhart/mcp-server-clickup
+      - title: MCP Server for Drupal
+        href: /server/mcp-server-drupal
+        description: ''
+        githubUrl: https://github.com/Omedia/mcp-server-drupal
+      - title: mcp-server-opensearch MCP server
+        href: /server/mcp_server_opensearch
+        description: ''
+        githubUrl: https://github.com/gowtham3105/mcp_server_opensearch
+      - title: Shell MCP Server
+        href: /server/mcp-server-shell
+        description: ''
+        githubUrl: https://github.com/odysseus0/mcp-server-shell
+      - title: Setup
+        href: /server/mcpi-server-list
+        description: ''
+        githubUrl: https://github.com/PythonScratcher/mcpi-server-list
+      - title: MCP SSH Server
+        href: /server/mcp-server-ssh
+        description: ''
+        githubUrl: https://github.com/shaike1/mcp-server-ssh
+      - title: MCP Server-Client Example
+        href: /server/mcp-server-client
+        description: ''
+        githubUrl: https://github.com/joeBlockchain/mcp-server-client
+      - title: '@modelcontextprotocol/server-terminal'
+        href: /server/mcp-terminal-server
+        description: Terminal server implementation for Model Context Protocol
+        githubUrl: https://github.com/RichardTheuws/mcp-terminal-server
+      - title: scaflog-zoho-mcp-server MCP server
+        href: /server/scaflog-zoho-mcp-server
+        description: MCP Server for Scaflog Zoho Creator App
+        githubUrl: https://github.com/mastercode-io/scaflog-zoho-mcp-server
+      - title: MCP Rust CLI server template
+        href: /server/mcp-server-hello
+        description: A hello-world server for the Model Context Protocol
+        githubUrl: https://github.com/TeamDman/mcp-server-hello
+      - title: ExMCP Test Server
+        href: /server/ex-mcp-test
+        description: Test implementation of mcp server in Elixir
+        githubUrl: https://github.com/y86/ex-mcp-test
+      - title: Notion Mcp Server
+        href: /server/notion-mcp-server
+        description: MCP Server to connect Notion with Claude
+        githubUrl: https://github.com/arre-ankit/notion-mcp-server
+      - title: mcp-server-restart
+        href: /server/mcp-server-restart
+        description: Restarts Claude Desktop after mcp-server installation
+        githubUrl: https://github.com/non-dirty/mcp-server-restart
+      - title: MCP Documentation Server
+        href: /server/mcp-documentation-server
+        description: MCP Documentation Server with AI Learning Capabilities
+        githubUrl: https://github.com/mahawi1992/mcp-documentation-server
+      - title: OpenAPI MCP Server
+        href: /server/mcp-openapi-server
+        description: >-
+          MCP Server (Model Context Protocol) for turning OpenAPI specifications
+          into a MCP Resource
+        githubUrl: https://github.com/ivo-toby/mcp-openapi-server
+      - title: mcpehelper-server
+        href: /server/mcpehelper-server
+        description: ''
+        githubUrl: https://github.com/shadowpants18/mcpehelper-server
+      - title: Jira communication server MCP Server
+        href: /server/jira-mcp-server
+        description: A test of jira mcp server
+        githubUrl: https://github.com/KS-GEN-AI/jira-mcp-server
+      - title: mcp-server-bluesky
+        href: /server/mcp-server-bluesky
+        description: MCP server for interacting with Bluesky
+        githubUrl: https://github.com/morinokami/mcp-server-bluesky
+      - title: MCP Server
+        href: /server/MCP-server
+        description: Server implementation for MCP
+        githubUrl: https://github.com/xinyi-hou/MCP-server
+      - title: MCP Server for Spinnaker
+        href: /server/mcp-server-spinnaker
+        description: MCP Server for Spinnaker integrations.
+        githubUrl: https://github.com/dion-hagan/mcp-server-spinnaker
+      - title: GitHub MCP Server Practice Repository
+        href: /server/github-mcp-server-practice
+        description: Practice repository for MCP server implementation
+        githubUrl: https://github.com/soso0024/github-mcp-server-practice
+      - title: MCP Server Test Repository
+        href: /server/mcp-server-test
+        description: Test repository for MCP server functions
+        githubUrl: https://github.com/ivarvd-hldng/mcp-server-test
+      - title: mcp-server-prometheus
+        href: /server/mcp-server-prometheus
+        description: MCP server for interacting with Prometheus
+        githubUrl: https://github.com/loglmhq/mcp-server-prometheus
+      - title: Mcp2.0 Server
+        href: /server/mcp2.0-server
+        description: ''
+        githubUrl: https://github.com/frankraitv/mcp2.0-server
+      - title: serverMCprt
+        href: /server/serverMCprt
+        description: prueba
+        githubUrl: https://github.com/kevinixz/serverMCprt
+      - title: Whisper_King
+        href: /server/Whisper_King
+        description: Repository created by MCP server
+        githubUrl: https://github.com/DuckDs-C-Adventures/Whisper_King
+      - title: OpenMCPSever
+        href: /server/OpenMCPSever
+        description: Open source for MCP server
+        githubUrl: https://github.com/chgaowei/OpenMCPSever
+      - title: claude_mcp
+        href: /server/claude_mcp
+        description: Different MCP servers in Python
+        githubUrl: https://github.com/bic-42/claude_mcp
+      - title: Wait MCP Server
+        href: /server/mcp-wait
+        description: Test MCP Server for Waiting
+        githubUrl: https://github.com/7shi/mcp-wait
+      - title: mcp-servers-kurtseifried
+        href: /server/mcp-servers-kurtseifried
+        description: A collection of MCP servers
+        githubUrl: https://github.com/kurtseifried/mcp-servers-kurtseifried
+      - title: Google Tasks MCP Server
+        href: /server/mcp-google-tasks
+        description: >-
+          Node.js server implementing Model Context Protocol (MCP) for Google
+          Tasks
+        githubUrl: https://github.com/mstfe/mcp-google-tasks
+      - title: Anki MCP Server
+        href: /server/anki-mcp-server
+        description: An MCP server for Anki
+        githubUrl: https://github.com/scorzeth/anki-mcp-server
+      - title: mcp_rs_test
+        href: /server/mcp_rs_test
+        description: MCP server implementation in Rust
+        githubUrl: https://github.com/andrewsah/mcp_rs_test
+      - title: Simple Weather MCP Server example from Quickstart
+        href: /server/weather-mcp-server
+        description: Simple Weather MCP Server Example
+        githubUrl: https://github.com/hideya/weather-mcp-server
+      - title: MCpi5Server
+        href: /server/MCpi5Server
+        description: My_MC_Server_Pi5
+        githubUrl: https://github.com/M3kk0M3d3sm0/MCpi5Server
+      - title: Nothing='s here YET
+        href: /server/MCPProxyServer
+        description: Intermediate proxy server for the minecraft protocol
+        githubUrl: https://github.com/CoffeeCoder1015/MCPProxyServer
+      - title: Gentoro MCP Server
+        href: /server/mcp-nodejs-server
+        description: >-
+          Integration layer between MCP Clients and Gentoro MCP Server
+          implementation
+        githubUrl: https://github.com/gentoro-GT/mcp-nodejs-server
+      - title: MCP Server Fetch
+        href: /server/mcp-server-fetch
+        description: MCP server fetch installation
+        githubUrl: https://github.com/Terrib1e/mcp-server-fetch
+      - title: T2_C2
+        href: /server/T2_C2
+        description: Server code for MCP
+        githubUrl: https://github.com/keval17-wq/T2_C2
+      - title: mcpServers
+        href: /server/mcpServers
+        description: ''
+        githubUrl: https://github.com/trezero/mcpServers
+      - title: istio-mcp
+        href: /server/istio-mcp
+        description: A tool library that encapsulates istio mcp client/server
+        githubUrl: https://github.com/slime-io/istio-mcp
+      - title: Coder Toolbox MCP Server
+        href: /server/coder-toolbox-mcp-server
+        description: ''
+        githubUrl: https://github.com/lamemind/coder-toolbox-mcp-server
+      - title: Foreword
+        href: /server/mcproxy
+        description: A proxy between MCP Clients and MCP Servers
+        githubUrl: https://github.com/LaurentAjdnik/mcproxy
+      - title: mcp-server-server
+        href: /server/mcp-server-server
+        description: MCP server of servers
+        githubUrl: https://github.com/rgarcia/mcp-server-server
+      - title: 🖥️ Shell MCP Server
+        href: /server/shell-mcp-server
+        description: >-
+          Secure shell command execution MCP server for Claude AI. Enables
+          controlled shell access within specified directories.
+        githubUrl: https://github.com/blazickjp/shell-mcp-server
+      - title: Salesforce MCP Server
+        href: /server/salesforce-mcp-server
+        description: Model Context Protocol server for Salesforce REST API integration
+        githubUrl: https://github.com/kablewy/salesforce-mcp-server
+      - title: Meta MCP Server
+        href: /server/meta-mcp-server
+        description: ''
+        githubUrl: https://github.com/DMontgomery40/meta-mcp-server
+      - title: Supabase MCP Server
+        href: /server/supabase-mcp-server
+        description: ''
+        githubUrl: https://github.com/JoshuaRileyDev/supabase-mcp-server
+      - title: MCP Workers AI
+        href: /server/mcp-workers-ai
+        description: MCP servers sdk for Cloudflare Workers
+        githubUrl: https://github.com/xtuc/mcp-workers-ai
+      - title: Edit File Lines MCP Server
+        href: /server/mcp-edit-file-lines
+        description: MCP Server to make line-based edits to a file.
+        githubUrl: https://github.com/oakenai/mcp-edit-file-lines
+      - title: Gmail Server for Model Context Protocol (MCP)
+        href: /server/gmail-mcp-server
+        description: Model Context Protocol (MCP) server for Gmail
+        githubUrl: https://github.com/jasonsum/gmail-mcp-server
+      - title: 🤖 Welcome to the Robot Takeover Setup Script! 🚀
+        href: /server/claude-mcp-setup
+        description: >-
+          Easy setup script for Anthropic Claude Model Context Protocol (MCP)
+          servers on Windows
+        githubUrl: https://github.com/patruff/claude-mcp-setup
+      - title: A Model Context Protocol Server for Home Assistant
+        href: /server/homeassistant-mcp
+        description: A MCP server for Home Assistant
+        githubUrl: https://github.com/tevonsb/homeassistant-mcp
+      - title: MCP Proxy Server
+        href: /server/mcp-proxy-server
+        description: >-
+          An MCP proxy server that aggregates and serves multiple MCP resource
+          servers through a single interface
+        githubUrl: https://github.com/adamwattis/mcp-proxy-server
+      - title: hide-mcp MCP server
+        href: /server/hide-mcp
+        description: MCP server for Hide
+        githubUrl: https://github.com/hide-org/hide-mcp
+      - title: Telegram MCP Server
+        href: /server/mcp-telegram
+        description: MCP Server for Telegram chatbot use.
+        githubUrl: https://github.com/lane83/mcp-telegram
+      - title: Workers Mcp
+        href: /server/workers-mcp
+        description: Talk to a Cloudflare Worker from Claude Desktop!
+        githubUrl: https://github.com/geelen/workers-mcp
+      - title: Unichat MCP Server in TypeScript
+        href: /server/unichat-ts-mcp-server
+        description: ''
+        githubUrl: https://github.com/amidabuddha/unichat-ts-mcp-server
+      - title: any-chat-completions-mcp MCP Server
+        href: /server/any-chat-completions-mcp
+        description: ''
+        githubUrl: https://github.com/pyroprompts/any-chat-completions-mcp
+      - title: Model Context Protocol (MCP) Server for the RAG Web Browser Actor 🌐
+        href: /server/mcp-server-rag-web-browser
+        description: A MCP Server for the RAG Web Browser Actor
+        githubUrl: https://github.com/apify/mcp-server-rag-web-browser
+      - title: mcp-get
+        href: /server/mcp-get
+        description: ''
+        githubUrl: https://github.com/michaellatman/mcp-get
+      - title: FireCrawl MCP Server
+        href: /server/mcp-server-firecrawl
+        description: ''
+        githubUrl: https://github.com/vrknetha/mcp-server-firecrawl
+      - title: Phabricator MCP Server
+        href: /server/phabricator-mcp-server
+        description: >-
+          A Model Context Protocol (MCP) server for interacting with Phabricator
+          API
+        githubUrl: https://github.com/baba786/phabricator-mcp-server
+      - title: CMD MCP Server
+        href: /server/CMD-MCP-Server
+        description: >-
+          MCP server for executing CMD commands. Can be hooked to claude for
+          additional agentics.
+        githubUrl: https://github.com/PhialsBasement/CMD-MCP-Server
+      - title: Perplexity MCP Server
+        href: /server/mcp-server-perplexity
+        description: ''
+        githubUrl: https://github.com/tanigami/mcp-server-perplexity
+      - title: Raygun MCP Server
+        href: /server/mcp-server-raygun
+        description: ''
+        githubUrl: https://github.com/MindscapeHQ/mcp-server-raygun
+      - title: MCP REST API and CLI Client
+        href: /server/mcp-client
+        description: ''
+        githubUrl: https://github.com/rakesh-eltropy/mcp-client
+      - title: Linear MCP Server
+        href: /server/linear-mcp-server
+        description: ''
+        githubUrl: https://github.com/jerhadf/linear-mcp-server
+      - title: langchain-mcp
+        href: /server/langchain-mcp
+        description: Model Context Protocol tool support for LangChain
+        githubUrl: https://github.com/rectalogic/langchain-mcp
+      - title: MCP MongoDB Server
+        href: /server/mcp-mongo-server
+        description: A Model Context Protocol Server for MongoDB
+        githubUrl: https://github.com/kiliczsh/mcp-mongo-server
+      - title: MCP Atlassian
+        href: /server/mcp-atlassian
+        description: ''
+        githubUrl: https://github.com/sooperset/mcp-atlassian
+      - title: Tinybird MCP server
+        href: /server/mcp-tinybird
+        description: ''
+        githubUrl: https://github.com/tinybirdco/mcp-tinybird
+      - title: YouTube MCP Server
+        href: /server/mcp-youtube
+        description: A Model-Context Protocol Server for YouTube
+        githubUrl: https://github.com/anaisbetts/mcp-youtube
+      - title: MCP Shell Server
+        href: /server/mcp-shell-server
+        description: ''
+        githubUrl: https://github.com/tumf/mcp-shell-server
+      - title: Ancestry MCP Server
+        href: /server/ancestry-mcp
+        description: >-
+          Ancestry MCP server made with Python that allows interactability with
+          .ged (GEDCOM) files
+        githubUrl: https://github.com/reeeeemo/ancestry-mcp
+      - title: mcp-golang
+        href: /server/mcp-golang
+        description: Write Model Context Protocol servers in few lines of go code. Docs at
+        githubUrl: https://github.com/metoro-io/mcp-golang
+      - title: 'mcp-pandoc: A Document Conversion MCP Server'
+        href: /server/mcp-pandoc
+        description: MCP server for document format conversion using pandoc.
+        githubUrl: https://github.com/vivekVells/mcp-pandoc
+      - title: Notion MCP Integration
+        href: /server/notion_mcp
+        description: >-
+          A simple MCP integration that allows Claude to read and manage a
+          personal Notion todo list
+        githubUrl: https://github.com/danhilse/notion_mcp
+      - title: mcp-miro MCP Server
+        href: /server/mcp-miro
+        description: ''
+        githubUrl: https://github.com/evalstate/mcp-miro
+      - title: MCP OpenAI Server
+        href: /server/mcp-openai
+        description: Chat with OpenAI models from Claude Desktop
+        githubUrl: https://github.com/mzxrai/mcp-openai
+      - title: MCP Manager for Claude Desktop
+        href: /server/mcp-manager
+        description: >-
+          simple web ui to manage mcp (model context protocol) servers in the
+          claude app
+        githubUrl: https://github.com/zueai/mcp-manager
+      - title: MCPHost 🤖
+        href: /server/mcphost
+        description: >-
+          A CLI host application that enables Large Language Models (LLMs) to
+          interact with external tools through the Model Context Protocol (MCP).
+        githubUrl: https://github.com/mark3labs/mcphost
+      - title: chatmcp
+        href: /server/chatmcp
+        description: >-
+          ChatMCP is an AI chat client implementing the Model Context Protocol
+          (MCP).
+        githubUrl: https://github.com/daodao97/chatmcp
+      - title: mcp-cli
+        href: /server/mcp-cli
+        description: A CLI inspector for the Model Context Protocol
+        githubUrl: https://github.com/wong2/mcp-cli
+      - title: FastMCP
+        href: /server/fastmcp
+        description: A TypeScript framework for building MCP servers.
+        githubUrl: https://github.com/punkpeye/fastmcp
+      - title: mcp-server-kubernetes
+        href: /server/mcp-server-kubernetes
+        description: MCP Server for kubernetes management commands
+        githubUrl: https://github.com/Flux159/mcp-server-kubernetes
+      - title: Xcode MCP Server
+        href: /server/Xcode-mcp-server
+        description: ''
+        githubUrl: https://github.com/PolarVista/Xcode-mcp-server
+      - title: MCP Code Analyzer
+        href: /server/mcp_code_analyzer
+        description: >-
+          A Model Context Protocol (MCP) server implementation for comprehensive
+          code analysis. This tool integrates with Claude Desktop to provide
+          code analysis capabilities through natural language interactions.
+        githubUrl: https://github.com/emiryasar/mcp_code_analyzer
+      - title: MCP Go 🚀
+        href: /server/mcp-go
+        description: >-
+          A Go implementation of the Model Context Protocol (MCP), enabling
+          seamless integration between LLM applications and external data
+          sources and tools.
+        githubUrl: https://github.com/mark3labs/mcp-go
+      - title: mcp-hfspace MCP Server 🤗
+        href: /server/mcp-hfspace
+        description: >-
+          MCP Server to Use HuggingFace spaces, easy configuration and Claude
+          Desktop mode.
+        githubUrl: https://github.com/evalstate/mcp-hfspace
+      - title: MCP Gateway, Server, and Client
+        href: /server/mcp-server-and-gw
+        description: >-
+          An MCP stdio to HTTP SSE transport gateway with example server and MCP
+          client
+        githubUrl: https://github.com/boilingdata/mcp-server-and-gw
+      - title: Apple Shortcuts MCP Server 🤖
+        href: /server/mcp-server-apple-shortcuts
+        description: ''
+        githubUrl: https://github.com/recursechat/mcp-server-apple-shortcuts
+      - title: MCP Manager
+        href: /server/mcp-config-editor
+        description: A simple GUI for managing MCP servers, for easy toggle mcp servers.
+        githubUrl: https://github.com/kaichen/mcp-config-editor
+      - title: 🐋 Docker MCP server
+        href: /server/mcp-server-docker
+        description: MCP server for Docker
+        githubUrl: https://github.com/ckreiling/mcp-server-docker
+      - title: Unichat MCP Server in Python
+        href: /server/unichat-mcp-server
+        description: ''
+        githubUrl: https://github.com/amidabuddha/unichat-mcp-server
+      - title: MCP Rust CLI server template
+        href: /server/mcp-rs-template
+        description: Model Context Protocol (MCP) CLI server template for Rust
+        githubUrl: https://github.com/linux-china/mcp-rs-template
+      - title: Bluesky Context Server
+        href: /server/bluesky-context-server
+        description: Bluesky MCP server
+        githubUrl: https://github.com/keturiosakys/bluesky-context-server
+      - title: arm64-mcpelauncher-server
+        href: /server/arm64-mcpelauncher-server
+        description: >-
+          Minecraft Bedrock Edition BDS-liked server for aarch64 devices like
+          raspi
+        githubUrl: https://github.com/LNSSPsd/arm64-mcpelauncher-server
+      - title: Todoist MCP Server
+        href: /server/todoist-mcp-server
+        description: >-
+          MCP server for Todoist integration enabling natural language task
+          management with Claude
+        githubUrl: https://github.com/abhiz123/todoist-mcp-server
+      - title: OpenAPI MCP Server
+        href: /server/openapi-mcp-server
+        description: ''
+        githubUrl: https://github.com/snaggle-ai/openapi-mcp-server
+      - title: mcp-server-home-assistant
+        href: /server/mcp-server-home-assistant
+        description: A Model Context Protocol Server for Home Assistant
+        githubUrl: https://github.com/allenporter/mcp-server-home-assistant
+      - title: mcp-server-collector MCP server
+        href: /server/mcp-server-collector
+        description: A MCP Server used to collect MCP Servers over the internet.
+        githubUrl: https://github.com/chatmcp/mcp-server-collector
+      - title: MCP Get Community Servers
+        href: /server/community-servers
+        description: >-
+          This repository contains a collection of community-maintained Model
+          Context Protocol (MCP) servers. All servers are automatically listed
+          on the MCP Get registry and can be viewed and installed via CLI
+        githubUrl: https://github.com/mcp-get/community-servers
+      - title: OpenRPC MCP Server
+        href: /server/openrpc-mpc-server
+        description: >-
+          A Model Context Protocol (MCP) server that provides JSON-RPC
+          functionality through OpenRPC.
+        githubUrl: https://github.com/shanejonas/openrpc-mpc-server
+      - title: CLI MCP Server
+        href: /server/cli-mcp-server
+        description: >-
+          Command line interface for MCP clients with secure execution and
+          customizable security policies
+        githubUrl: https://github.com/MladenSU/cli-mcp-server
+      - title: MCP Server Gateway
+        href: /server/mcp-gateway
+        description: A gateway demo for MCP SSE Server
+        githubUrl: https://github.com/lightconetech/mcp-gateway
+      - title: Neon MCP Server
+        href: /server/mcp-server-neon
+        description: MCP server for interacting with Neon Management API and databases
+        githubUrl: https://github.com/neondatabase/mcp-server-neon
+      - title: AWS MCP Server
+        href: /server/mcp-server-aws
+        description: >-
+          A Model Context Protocol server implementation for operations on AWS
+          resources
+        githubUrl: https://github.com/rishikavikondala/mcp-server-aws
+      - title: mcp-framework
+        href: /server/mcp-framework
+        description: >-
+          A framework for writing modelcontextprotocol (MCP) servers in
+          Typescript
+        githubUrl: https://github.com/QuantGeekDev/mcp-framework
+      - title: mcp-server
+        href: /server/mcp-server
+        description: >-
+          A Model Context Protocol Server facade to simplify the implementation
+          of agents
+        githubUrl: https://github.com/la-rebelion/mcp-server
+      - title: Mcp K8s Go
+        href: /server/mcp-k8s-go
+        description: MCP server connecting to Kubernetes
+        githubUrl: https://github.com/strowk/mcp-k8s-go
+      - title: MCP server for Obsidian
+        href: /server/mcp-obsidian
+        description: >-
+          MCP server that interacts with Obsidian via the Obsidian rest API
+          community plugin
+        githubUrl: https://github.com/MarkusPfundstein/mcp-obsidian
+      - title: Claude MCP Server Collection
+        href: /server/ClaudeMCPServer
+        description: MCP Server implementation for Claude
+        githubUrl: https://github.com/syedazharmbnr1/ClaudeMCPServer
+      - title: Jina Reader MCP Server
+        href: /server/mcp-jina-reader
+        description: Jina Reader MCP Server
+        githubUrl: https://github.com/wong2/mcp-jina-reader
+      - title: LiteMCP
+        href: /server/litemcp
+        description: A TypeScript framework for building MCP servers elegantly
+        githubUrl: https://github.com/wong2/litemcp
+      - title: LlamaCloud MCP Server
+        href: /server/mcp-server-llamacloud
+        description: A MCP server connecting to a managed index on LlamaCloud
+        githubUrl: https://github.com/run-llama/mcp-server-llamacloud
+      - title: MCP LLM Bridge
+        href: /server/mcp-llm-bridge
+        description: >-
+          MCP implementation that enables communication between MCP servers and
+          OpenAI-compatible LLMs
+        githubUrl: https://github.com/bartolli/mcp-llm-bridge
+      - title: MCP Inspector
+        href: /server/inspector
+        description: Visual testing tool for MCP servers
+        githubUrl: https://github.com/modelcontextprotocol/inspector
+      - title: MCP Create Server
+        href: /server/create-python-server
+        description: Create a Python MCP server
+        githubUrl: https://github.com/modelcontextprotocol/create-python-server
+      - title: mcp-servers
+        href: /server/mcp-servers
+        description: 🚀 The Model Context Protocol servers on my machine
+        githubUrl: https://github.com/goofansu/mcp-servers
+      - title: Cloudflare MCP Server
+        href: /server/mcp-server-cloudflare
+        description: ''
+        githubUrl: https://github.com/cloudflare/mcp-server-cloudflare
+      - title: OpenAI MCP Server
+        href: /server/mcp-server-openai
+        description: Query OpenAI models directly from Claude using MCP protocol.
+        githubUrl: https://github.com/pierrebrunelle/mcp-server-openai
+      - title: 🐳 docker-mcp
+        href: /server/docker-mcp
+        description: A docker MCP Server (modelcontextprotocol)
+        githubUrl: https://github.com/QuantGeekDev/docker-mcp
+      - title: create-typescript-server
+        href: /server/create-typescript-server
+        description: CLI tool to create a new TypeScript MCP server
+        githubUrl: https://github.com/modelcontextprotocol/create-typescript-server
+      - title: amazon-fresh-server MCP Server
+        href: /server/amazon-fresh-server
+        description: An amazon fresh mcp server
+        githubUrl: https://github.com/Alec2435/amazon-fresh-server
+      - title: applescript-mcp MCP Server
+        href: /server/applescript-mcp
+        description: A macOS AppleScript MCP server
+        githubUrl: https://github.com/joshrutkowski/applescript-mcp
+      - title: python_local MCP Server
+        href: /server/python_mcp
+        description: MCP Server to run python code locally
+        githubUrl: https://github.com/Alec2435/python_mcp
+      - title: Workers MCP Server
+        href: /server/workers-mcp-server
+        description: Talk to a Cloudflare Worker from Claude Desktop!
+        githubUrl: https://github.com/geelen/workers-mcp-server
+      - title: Notion MCP Server
+        href: /server/mcp-notion-server
+        description: ''
+        githubUrl: https://github.com/suekou/mcp-notion-server
+      - title: GitLab
+        href: /server/gitlab
+        description: GitLab API, enabling project management
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/gitlab
+      - title: LlamaCloud
+        href: /server/llamacloud
+        description: >-
+          (by marcusschiesser) - Integrate the data stored in a managed index on
+          LlamaCloud
+        githubUrl: https://github.com/run-llama/mcp-server-llamacloud
+      - title: OpenRPC
+        href: /server/openrpc
+        description: Interact with and discover JSON-RPC APIs via OpenRPC.
+        githubUrl: https://github.com/shanejonas/openrpc-mpc-server
+      - title: GitHub
+        href: /server/github
+        description: Repository management, file operations, and GitHub API integration
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/github
+      - title: Git
+        href: /server/git
+        description: Tools to read, search, and manipulate Git repositories
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/git
+      - title: Todoist
+        href: /server/todoist
+        description: Interact with Todoist to manage your tasks.
+        githubUrl: https://github.com/abhiz123/todoist-mcp-server
+      - title: Linear
+        href: /server/linear
+        description: >-
+          Allows LLM to interact with Linear's API for project management,
+          including searching, creating, and updating issues.
+        githubUrl: https://github.com/jerhadf/linear-mcp-server
+      - title: E2B
+        href: /server/e2b
+        description: Run code in secure sandboxes hosted by E2B
+        githubUrl: https://github.com/e2b-dev/mcp-server
+      - title: Any Chat Completions
+        href: /server/any-chat-completions
+        description: >-
+          Interact with any OpenAI SDK Compatible Chat Completions API like
+          OpenAI, Perplexity, Groq, xAI and many more.
+        githubUrl: https://github.com/pyroprompts/any-chat-completions-mcp
+      - title: Windows CLI
+        href: /server/windows-cli
+        description: >-
+          MCP server for secure command-line interactions on Windows systems,
+          enabling controlled access to PowerShell, CMD, and Git Bash shells.
+        githubUrl: https://github.com/SimonB97/win-cli-mcp-server
+      - title: mcp-installer - A MCP Server to install MCP Servers
+        href: /server/mcp-installer
+        description: An MCP server that installs other MCP servers for you
+        githubUrl: https://github.com/anaisbetts/mcp-installer
+  - category: Research And Data
+    pageurl: /category/research-and-data
+    pageDetails:
+      - title: Windows-MCP-Server-Installation-Verification-Guide
+        href: /server/Windows-MCP-Server-Installation-Verification-Guide
+        description: >-
+          Windows MCP server setup differs from Mac by requiring absolute file
+          paths and explicit node.exe references instead of npx commands. The
+          installation requires verifying npm and installing packages globally
+          to the AppData\Roaming\npm\node_modules directory. Running servers
+          needs complete paths for both node.exe and the server's index.js file.
+        githubUrl: >-
+          https://github.com/trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide
+      - title: Aindreyway MCP Codex Keeper
+        href: /server/mcp-codex-keeper
+        description: >-
+          An intelligent MCP server that serves as a guardian of development
+          knowledge, providing Cline assistants with curated access to latest
+          documentation and best practices across the software development
+          landscape
+        githubUrl: https://github.com/aindreyway/mcp-codex-keeper
+      - title: MCP Server for Data Exploration
+        href: /server/reading-plus-ai_mcp-server-data-exploration
+        description: Mirror of
+        githubUrl: >-
+          https://github.com/MCP-Mirror/reading-plus-ai_mcp-server-data-exploration
+      - title: Inoyu Apache Unomi MCP Server
+        href: /server/sergehuber_inoyu-mcp-unomi-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/sergehuber_inoyu-mcp-unomi-server
+      - title: MCP NPX Fetch
+        href: /server/mcp-npx-fetch
+        description: >-
+          A powerful MCP server for fetching and transforming web content into
+          various formats (HTML, JSON, Markdown, Plain Text) with ease.
+        githubUrl: https://github.com/tokenizin-agency/mcp-npx-fetch
+      - title: PageSpeed MCP Server
+        href: /server/Pagespeed-MCP-Server
+        description: Pull pagespeed data using this MCP server.
+        githubUrl: https://github.com/PhialsBasement/Pagespeed-MCP-Server
+      - title: Awesome Claude MCP Servers 🤖
+        href: /server/win4r_Awesome-Claude-MCP-Servers
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/win4r_Awesome-Claude-MCP-Servers
+      - title: mcp-server-yahoo-finance MCP server
+        href: /server/wrale_mcp-server-yahoo-finance
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/wrale_mcp-server-yahoo-finance
+      - title: Exa MCP Server 🔍
+        href: /server/exa-labs_exa-mcp-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/exa-labs_exa-mcp-server
+      - title: MCP-ORTools
+        href: /server/mcp-ortools
+        description: >-
+          Model Context Protocol (MCP) server implementation using Google
+          OR-Tools for constraint solving
+        githubUrl: https://github.com/Jacck/mcp-ortools
+      - title: Exa MCP Server 🔍
+        href: /server/theishangoswami_exa-mcp-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/theishangoswami_exa-mcp-server
+      - title: MemoryMesh
+        href: /server/MemoryMesh
+        description: >-
+          A knowledge graph server that uses the Model Context Protocol (MCP) to
+          provide structured memory persistence for AI models. v0.2.8
+        githubUrl: https://github.com/CheMiguel23/MemoryMesh
+      - title: MCP-Geo
+        href: /server/MCP-Geo
+        description: Geocoding MCP server with GeoPY!
+        githubUrl: https://github.com/webcoderz/MCP-Geo
+      - title: MCP Compass 🧭
+        href: /server/mcp-compass
+        description: >-
+          MCP Discovery & Recommendation Service - Find the right MCP server for
+          your needs
+        githubUrl: https://github.com/liuyoshio/mcp-compass
+      - title: '@microagents/server-brave-search'
+        href: /server/server-brave-search
+        description: MCP server for Brave Search API integration
+        githubUrl: https://github.com/microagents/server-brave-search
+      - title: Face Generator MCP Server
+        href: /server/face-generator
+        description: >-
+          MCP server for generating human face images with various shapes and
+          sizes
+        githubUrl: https://github.com/dasheck0/face-generator
+      - title: Semantic Scholar MCP Server
+        href: /server/semantic-scholar-fastmcp-mcp-server
+        description: >-
+          A FastMCP server implementation for the Semantic Scholar API,
+          providing comprehensive access to academic paper data, author
+          information, and citation networks.
+        githubUrl: https://github.com/YUZongmin/semantic-scholar-fastmcp-mcp-server
+      - title: ElevenLabs MCP Server
+        href: /server/mamertofabian_elevenlabs-mcp-server
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/mamertofabian_elevenlabs-mcp-server
+      - title: macrostrat-mcp
+        href: /server/macrostrat-mcp
+        description: MCP server for accessing geologic data with the Macrostrat API
+        githubUrl: https://github.com/blake365/macrostrat-mcp
+      - title: MCP Bridge
+        href: /server/MCP-bridge
+        description: >-
+          Enables cloud-based AI services to access local Stdio based MCP
+          servers
+        githubUrl: https://github.com/EvalsOne/MCP-bridge
+      - title: usgs-quakes-mcp
+        href: /server/usgs-quakes-mcp
+        description: >-
+          An MCP server for querying the USGS Earthquake API with natural
+          language
+        githubUrl: https://github.com/blake365/usgs-quakes-mcp
+      - title: MCP Time Server
+        href: /server/mcp-time-server
+        description: >-
+          Model Context Protocol Time Server - A robust timezone-aware time
+          server implementation
+        githubUrl: https://github.com/txbm/mcp-time-server
+      - title: Meilisearch MCP Server
+        href: /server/meilisearch-mcp
+        description: >-
+          A Model Context Protocol (MCP) server for interacting with Meilisearch
+          through LLM interfaces.
+        githubUrl: https://github.com/meilisearch/meilisearch-mcp
+      - title: MCP Zotero
+        href: /server/mcp-zotero
+        description: >-
+          A connector for Claude Desktop to work with collection and sources on
+          your Zotero Cloud.
+        githubUrl: https://github.com/kaliaboi/mcp-zotero
+      - title: Rijksmuseum Amsterdam MCP Server
+        href: /server/rijksmuseum-mcp
+        description: Rijksmuseum MCP integration for artwork exploration and analysis
+        githubUrl: https://github.com/r-huijts/rijksmuseum-mcp
+      - title: perplexity-mcp MCP server
+        href: /server/perplexity-mcp
+        description: >-
+          A Model Context Protocol (MCP) server that provides web search
+          functionality using Perplexity AI's API.
+        githubUrl: https://github.com/jsonallen/perplexity-mcp
+      - title: >-
+          Model Context Protocol and Fireproof Demo: JSON Document Collection
+          Server
+        href: /server/mcp-json-db-collection-server
+        description: >-
+          Use Model Context Protocol with multiple Fireproof JSON document
+          databases
+        githubUrl: https://github.com/jimpick/mcp-json-db-collection-server
+      - title: Google News MCP Server
+        href: /server/server-google-news
+        description: >-
+          Model Context Protocol (MCP) server implementation providing Google
+          News search capabilities via SerpAPI, with automatic news
+          categorization and multi-language support.
+        githubUrl: https://github.com/ChanMeng666/server-google-news
+      - title: MCP Google Custom Search Server
+        href: /server/mcp-google-custom-search-server
+        description: An mcp server for searching against google custom search api
+        githubUrl: https://github.com/alexatnordnet/mcp-google-custom-search-server
+      - title: Home Assistant MCP Server
+        href: /server/Homeassistant-server-mcp
+        description: >-
+          A Model Context Protocol (MCP) server for interacting with Home
+          Assistant. This server provides tools to control and monitor your Home
+          Assistant devices through MCP-enabled applications.
+        githubUrl: https://github.com/hekmon8/Homeassistant-server-mcp
+      - title: 🤝
+        href: /server/home-assistant-mcp
+        description: An MCP server for Home Assistant
+        githubUrl: https://github.com/miguelg719/home-assistant-mcp
+      - title: '🌟 Linkup for Claude: Internet Access for Your AI Assistant'
+        href: /server/python-mcp-server
+        description: >-
+          Linkup is a third-party extension that gives Claude access to
+          real-time web search and premium content sources. It seamlessly
+          integrates with Claude Desktop, enabling up-to-date information
+          retrieval during conversations through a simple 60-second setup
+          process.
+        githubUrl: https://github.com/LinkupPlatform/python-mcp-server
+      - title: Alpha Vantage MCP Server
+        href: /server/alpha-vantage-mcp
+        description: MCP Server for Alpha Advantage API
+        githubUrl: https://github.com/berlinbra/alpha-vantage-mcp
+      - title: MCP Server Patent Integration
+        href: /server/mcp-server-patent
+        description: MCP Server configuration with patent API integrations
+        githubUrl: https://github.com/myownipgit/mcp-server-patent
+      - title: Jewish Library MCP Server
+        href: /server/mcp-otzaria-server
+        description: makes the jewish library accessible to LLMs through the MCP protocol
+        githubUrl: https://github.com/Sivan22/mcp-otzaria-server
+      - title: RAG Documentation MCP Server
+        href: /server/mcp-ragdocs
+        description: >-
+          An MCP server implementation that provides tools for retrieving and
+          processing documentation through vector search, enabling AI assistants
+          to augment their responses with relevant documentation context.
+        githubUrl: https://github.com/hannesrudolph/mcp-ragdocs
+      - title: Pinecone Model Context Protocol Server for Claude Desktop.
+        href: /server/mcp-pinecone
+        description: >-
+          Model Context Protocol server to allow for reading and writing from
+          Pinecone. Rudimentary RAG
+        githubUrl: https://github.com/sirmews/mcp-pinecone
+      - title: iMessage Query MCP Server
+        href: /server/imessage-query-fastmcp-mcp-server
+        description: >-
+          An MCP server that provides safe access to your iMessage database
+          through Model Context Protocol (MCP). This server is built with the
+          FastMCP framework and the imessagedb library, enabling LLMs to query
+          and analyze iMessage conversations with proper phone number validation
+          and attachment handling.
+        githubUrl: https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server
+      - title: Needle MCP Server
+        href: /server/needle-mcp-server
+        description: Integration of Needle in modelcontextprotocol
+        githubUrl: https://github.com/JANHMS/needle-mcp-server
+      - title: MCP Solver
+        href: /server/mcp-solver
+        description: >-
+          Model Context Protocol (MCP) server for constraint optimization and
+          solving"
+        githubUrl: https://github.com/szeider/mcp-solver
+      - title: Bybit MCP Server
+        href: /server/bybit-mcp
+        description: Ollama MCP server for bybit
+        githubUrl: https://github.com/sammcj/bybit-mcp
+      - title: MCP-LLM Bridge
+        href: /server/ollama-mcp-bridge
+        description: >-
+          Bridge between Ollama and MCP servers, enabling local LLMs to use
+          Model Context Protocol tools
+        githubUrl: https://github.com/patruff/ollama-mcp-bridge
+      - title: MongoDB MCP Server
+        href: /server/mongodb-mcp-server
+        description: ''
+        githubUrl: https://github.com/mongodb-developer/mongodb-mcp-server
+      - title: Binance Market Data MCP Server
+        href: /server/mcp-server-binance
+        description: ''
+        githubUrl: https://github.com/qeinfinity/mcp-server-binance
+      - title: tavily-server MCP Server
+        href: /server/tavily-server
+        description: Tavily MCP Server for Cline
+        githubUrl: https://github.com/zenturacp/tavily-server
+      - title: Flightradar24 MCP Server 🛩️
+        href: /server/flightradar24-mcp-server
+        description: Model Context Protocol server for Flight Tracking
+        githubUrl: https://github.com/sunsetcoder/flightradar24-mcp-server
+      - title: DependencyMCP Server
+        href: /server/dependency-mcp
+        description: A Model Context Protocol (MCP) server for analyzing code dependencies
+        githubUrl: https://github.com/mkearl/dependency-mcp
+      - title: MCP Cortex
+        href: /server/mcp-cortex
+        description: >-
+          MCP server implementation for advanced document and knowledge graph
+          processing
+        githubUrl: https://github.com/kangaekata/mcp-cortex
+      - title: Maigret MCP Server
+        href: /server/mcp-maigret
+        description: >-
+          MCP server for maigret, a powerful OSINT tool that collects user
+          account information from various public sources.
+        githubUrl: https://github.com/BurtTheCoder/mcp-maigret
+      - title: Binance MCP Server
+        href: /server/binance-mcp-server
+        description: ''
+        githubUrl: https://github.com/qeinfinity/binance-mcp-server
+      - title: SQLite Explorer MCP Server
+        href: /server/sqlite-explorer-fastmcp-mcp-server
+        description: >-
+          An MCP server that provides safe, read-only access to SQLite databases
+          through Model Context Protocol (MCP). This server is built with the
+          FastMCP framework, which enables LLMs to explore and query SQLite
+          databases with built-in safety features and query validation.
+        githubUrl: https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server
+      - title: Snowflake MCP Server
+        href: /server/mcp-snowflake-server
+        description: ''
+        githubUrl: https://github.com/isaacwasserman/mcp-snowflake-server
+      - title: RapidAPI MCP Server
+        href: /server/RapidAPI-MCP
+        description: >-
+          MCP Server implementation for RapidAPI Global Patent API integration
+          with SQLite storage
+        githubUrl: https://github.com/myownipgit/RapidAPI-MCP
+      - title: 🤖 MCP Server Terminator Test Facility
+        href: /server/terminatorTest
+        description: A testing ground for the MCP server terminator. Hasta la vista, bugs!
+        githubUrl: https://github.com/patruff/terminatorTest
+      - title: MCP (Model Context Protocol) Research
+        href: /server/mcp-research
+        description: >-
+          Research and documentation about Model Context Protocol (MCP) servers
+          and implementations
+        githubUrl: https://github.com/spuerFan/mcp-research
+      - title: yfinance MCP Server
+        href: /server/mcp-yfinance
+        description: MCP Server for fething yfinance financial data into Claude Desktop
+        githubUrl: https://github.com/9nate-drake/mcp-yfinance
+      - title: VirusTotal MCP Server
+        href: /server/mcp-virustotal
+        description: A Model Context Protocol (MCP) server for querying the VirusTotal API.
+        githubUrl: https://github.com/BurtTheCoder/mcp-virustotal
+      - title: mcp-cps-data MCP server
+        href: /server/mcp-cps-data
+        description: MCP Server for locally hosted data on Chicago Public Schools
+        githubUrl: https://github.com/mdagost/mcp-cps-data
+      - title: MCP Analysis Templates
+        href: /server/mcp-prompt-templates
+        description: MCP server for managing and serving analysis prompt templates
+        githubUrl: https://github.com/mikeskarl/mcp-prompt-templates
+      - title: awesome-awesome-mcp-servers
+        href: /server/awesome-awesome-mcp-servers
+        description: A curated list of awesome-mcp-servers (Model Context Protocol server)
+        githubUrl: https://github.com/esc5221/awesome-awesome-mcp-servers
+      - title: Building a Twitter Trends Analysis MCP Server for Claude
+        href: /server/Twitter-MCP-Server-for-Claude
+        description: ''
+        githubUrl: https://github.com/Muralikrishankp/Twitter-MCP-Server-for-Claude
+      - title: weather-service MCP server
+        href: /server/mcp-weather-server-example
+        description: Claude Model Context Protocol Weather Server Example
+        githubUrl: https://github.com/duan-li/mcp-weather-server-example
+      - title: Google Analytics MCP Server
+        href: /server/mcp-server-google-analytics
+        description: >-
+          Model Context Protocol server for Google Analytics, enabling LLMs to
+          fetch and analyze web analytics data
+        githubUrl: https://github.com/ruchernchong/mcp-server-google-analytics
+      - title: Tavily MCP Server
+        href: /server/mcp-tavily
+        description: An MCP server for Tavily's search API
+        githubUrl: https://github.com/RamXX/mcp-tavily
+      - title: Obsidian Index MCP server
+        href: /server/mcp-obsidian-index
+        description: MCP server providing sementic search over Obsidian vaults
+        githubUrl: https://github.com/tcsavage/mcp-obsidian-index
+      - title: MCP_server_weather
+        href: /server/MCP_server_weather
+        description: ''
+        githubUrl: https://github.com/mathemagie/MCP_server_weather
+      - title: mcp-server-llmling
+        href: /server/mcp-server-llmling
+        description: MCP (Model context protocol) server with LLMling backend
+        githubUrl: https://github.com/phil65/mcp-server-llmling
+      - title: SingleStore MCP Server
+        href: /server/singlestore-mcp-server
+        description: ''
+        githubUrl: https://github.com/madhukarkumar/singlestore-mcp-server
+      - title: emojikey-server MCP Server
+        href: /server/mcp-server-emojikey
+        description: >-
+          MCP Server for emojikey.io ... save your unique relationship state and
+          interaction style with your favorite LLM
+        githubUrl: https://github.com/identimoji/mcp-server-emojikey
+      - title: Angle One MCP Server
+        href: /server/angleone-mcp-server
+        description: >-
+          An MCP (Model Context Protocol) server implementation integrated with
+          Angle One APIs for financial data processing and analysis.
+        githubUrl: https://github.com/baba786/angleone-mcp-server
+      - title: UniProt MCP Server
+        href: /server/uniprot-mcp-server
+        description: MCP server for UniProt protein data access
+        githubUrl: https://github.com/TakumiY235/uniprot-mcp-server
+      - title: MCPs for sports
+        href: /server/mcp-sports
+        description: An MCP server for real-time sports.
+        githubUrl: https://github.com/michaelfromyeg/mcp-sports
+      - title: MCPE_servers
+        href: /server/MCPE_servers
+        description: ''
+        githubUrl: https://github.com/StrongApps/MCPE_servers
+      - title: MCP-Server
+        href: /server/MCP-Server
+        description: ''
+        githubUrl: https://github.com/VivekSinghDS/MCP-Server
+      - title: Fiscal Data Mcp
+        href: /server/fiscal-data-mcp
+        description: mcp server connected to us treasury data, built with mcp-framework
+        githubUrl: https://github.com/QuantGeekDev/fiscal-data-mcp
+      - title: Compound Interest Calculator
+        href: /server/test
+        description: Repository to test MCP server functionality
+        githubUrl: https://github.com/Jamespptsr/test
+      - title: pubmed_search MCP server
+        href: /server/pubmed_search
+        description: MCP PubMed Search Server
+        githubUrl: https://github.com/wavelovey/pubmed_search
+      - title: TMDB MCP Server
+        href: /server/mcp-server-tmdb
+        description: MCP Server with TMDB
+        githubUrl: https://github.com/Laksh-star/mcp-server-tmdb
+      - title: SQLite MCP Server
+        href: /server/mcp-sqlite-bun-server
+        description: ''
+        githubUrl: https://github.com/jacksteamdev/mcp-sqlite-bun-server
+      - title: Knowledge Graph Memory Server
+        href: /server/mcp-knowledge-graph
+        description: >-
+          MCP server enabling persistent memory for Claude through a local
+          knowledge graph - fork focused on local development
+        githubUrl: https://github.com/shaneholloman/mcp-knowledge-graph
+      - title: MCP Server for Asana
+        href: /server/mcp-server-asana
+        description: ''
+        githubUrl: https://github.com/roychri/mcp-server-asana
+      - title: BirdNet-Pi MCP Server
+        href: /server/mcp-local-server
+        description: Local Model Context Protocol Server with BirdNet-Pi integration
+        githubUrl: https://github.com/DMontgomery40/mcp-local-server
+      - title: MCP Server for MySQL based on NodeJS
+        href: /server/mcp-server-mysql
+        description: >-
+          A Model Context Protocol server that provides read-only access to
+          MySQL databases. This server enables LLMs to inspect database schemas
+          and execute read-only queries.
+        githubUrl: https://github.com/benborla/mcp-server-mysql
+      - title: MCP Server Obsidian Omnisearch
+        href: /server/mcp-server-obsidian-omnisearch
+        description: ''
+        githubUrl: https://github.com/anpigon/mcp-server-obsidian-omnisearch
+      - title: MCP Community Contributions
+        href: /server/mcp-community
+        description: >-
+          This is a directory repo for anything related to MCP - servers,
+          clients and projects around MCP.
+        githubUrl: https://github.com/sdairs/mcp-community
+      - title: MCPE Server Proxy
+        href: /server/MCPE-Server-Proxy
+        description: This helps with joining MCPI servers on MCPE
+        githubUrl: https://github.com/Red-exe-Engineer/MCPE-Server-Proxy
+      - title: MCP Get Community Servers
+        href: /server/mcp-server-rememberizer
+        description: ''
+        githubUrl: https://github.com/skydeckai/mcp-server-rememberizer
+      - title: Inoyu Apache Unomi MCP Server
+        href: /server/inoyu-mcp-unomi-server
+        description: >-
+          An implementation of Anthropic's Model Context Protocol for the Apache
+          Unomi CDP
+        githubUrl: https://github.com/sergehuber/inoyu-mcp-unomi-server
+      - title: Data Visualization MCP Server
+        href: /server/mcp-vegalite-server
+        description: ''
+        githubUrl: https://github.com/isaacwasserman/mcp-vegalite-server
+      - title: mcp-simple-arxiv
+        href: /server/mcp-simple-arxiv
+        description: >-
+          Tool to work with arXiv, provide LLM with ability to search and read
+          papers from there
+        githubUrl: https://github.com/andybrandt/mcp-simple-arxiv
+      - title: BigQuery MCP Server
+        href: /server/mcp-bigquery-server
+        description: >-
+          A Model Context Protocol (MCP) server that provides secure, read-only
+          access to BigQuery datasets. Enables Large Language Models (LLMs) to
+          safely query and analyze data through a standardized interface.
+        githubUrl: https://github.com/ergut/mcp-bigquery-server
+      - title: Coincap MCP
+        href: /server/coincap-mcp
+        description: A coincap mcp server to access crypto data from coincap API
+        githubUrl: https://github.com/QuantGeekDev/coincap-mcp
+      - title: Neo4j MCP Clients & Servers
+        href: /server/mcp-neo4j
+        description: Model Context Protocol with Neo4j
+        githubUrl: https://github.com/neo4j-contrib/mcp-neo4j
+      - title: Search1API MCP Server
+        href: /server/search1api-mcp
+        description: ''
+        githubUrl: https://github.com/fatwang2/search1api-mcp
+      - title: NS Travel Information MCP Server
+        href: /server/ns-mcp-server
+        description: >-
+          A Model Context Protocol (MCP) server that provides access to NS
+          (Dutch Railways) travel information through Claude AI. This server
+          enables Claude to fetch real-time train travel information and
+          disruptions using the official Dutch NS API.
+        githubUrl: https://github.com/r-huijts/ns-mcp-server
+      - title: Shodan MCP Server
+        href: /server/mcp-shodan
+        description: MCP server for querying the Shodan API
+        githubUrl: https://github.com/BurtTheCoder/mcp-shodan
+      - title: BigQuery MCP server
+        href: /server/mcp-server-bigquery
+        description: A Model Context Protocol server that provides access to BigQuery
+        githubUrl: https://github.com/LucasHild/mcp-server-bigquery
+      - title: tavily-search MCP server
+        href: /server/mcp-server-tavily
+        description: ''
+        githubUrl: https://github.com/Tomatio13/mcp-server-tavily
+      - title: metoro-mcp-server
+        href: /server/metoro-mcp-server
+        description: Metoro MCP Server
+        githubUrl: https://github.com/metoro-io/metoro-mcp-server
+      - title: Coinmarket MCP server
+        href: /server/coinmarket-mcp-server
+        description: ''
+        githubUrl: https://github.com/anjor/coinmarket-mcp-server
+      - title: AI Federation Network
+        href: /server/federated-mcp
+        description: >-
+          This implementation follows the official MCP specification, including
+          proper message framing, transport layer implementation, and complete
+          protocol lifecycle management. It provides a foundation for building
+          federated MCP systems that can scale across multiple servers while
+          maintaining security and standardization requirements.
+        githubUrl: https://github.com/ruvnet/federated-mcp
+      - title: ArXiv MCP Server
+        href: /server/arxiv-mcp-server
+        description: >-
+          A Model Context Protocol server for searching and analyzing arXiv
+          papers
+        githubUrl: https://github.com/blazickjp/arxiv-mcp-server
+      - title: kagi-server MCP Server
+        href: /server/mcp-servers-kagi
+        description: A Model Context Protocol server implementation for Kagi's API
+        githubUrl: https://github.com/ac3xx/mcp-servers-kagi
+      - title: Awesome Claude MCP Servers 🤖
+        href: /server/Awesome-Claude-MCP-Servers
+        description: >-
+          A curated list of Model Context Protocol (MCP) servers optimized for
+          Claude AI assistants.
+        githubUrl: https://github.com/win4r/Awesome-Claude-MCP-Servers
+      - title: YouTube Transcript Server
+        href: /server/mcp-server-youtube-transcript
+        description: >-
+          This is an MCP server that allows you to directly download transcripts
+          of YouTube videos.
+        githubUrl: https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
+      - title: Mcp Directory
+        href: /server/mcp-directory
+        description: directory for Awesome MCP Servers
+        githubUrl: https://github.com/chatmcp/mcp-directory
+      - title: MySQL MCP Server
+        href: /server/mysql_mcp_server
+        description: >-
+          A Model Context Protocol (MCP) server that enables secure interaction
+          with MySQL databases
+        githubUrl: https://github.com/designcomputer/mysql_mcp_server
+      - title: Portfolio Service MCP Server
+        href: /server/brokers-mcp
+        description: >-
+          A MCP (Model Context Protocol) server that implements popular brokers'
+          APIs and more
+        githubUrl: https://github.com/itay1542/brokers-mcp
+      - title: MCP Web Research Server
+        href: /server/mcp-webresearch
+        description: MCP web research server (give Claude real-time info from the web)
+        githubUrl: https://github.com/mzxrai/mcp-webresearch
+      - title: Awesome MCP Servers
+        href: /server/awesome-mcp-servers
+        description: ''
+        githubUrl: https://github.com/morisono/awesome-mcp-servers
+      - title: MCppServer
+        href: /server/MCppServer
+        description: Fast and super efficient Minecraft Server written in C++
+        githubUrl: https://github.com/Noeli14/MCppServer
+      - title: Exa MCP Server 🔍
+        href: /server/exa-mcp-server
+        description: Claude can perform Web Search | Exa with MCP (Model Context Protocol)
+        githubUrl: https://github.com/exa-labs/exa-mcp-server
+      - title: MCP Server for Data Exploration
+        href: /server/mcp-server-data-exploration
+        description: ''
+        githubUrl: https://github.com/reading-plus-ai/mcp-server-data-exploration
+      - title: Mcp Server Chatsum
+        href: /server/mcp-server-chatsum
+        description: Query and Summarize your chat messages.
+        githubUrl: https://github.com/chatmcp/mcp-server-chatsum
+      - title: MCP Server for Prometheus
+        href: /server/prometheus_mcp_server
+        description: >-
+          A Model Context Protocol (MCP) server enabling LLMs to query, analyze,
+          and interact with Prometheus databases through predefined routes.
+        githubUrl: https://github.com/CaesarYangs/prometheus_mcp_server
+      - title: VikingDB MCP server
+        href: /server/vikingdb-mcp-server
+        description: a mcp server for vikingdb store and search
+        githubUrl: https://github.com/KashiwaByte/vikingdb-mcp-server
+      - title: Pandora's Shell
+        href: /server/Pandoras-Shell
+        description: >-
+          MCP server enabling AI assistants to execute terminal commands through
+          a secure shell interface
+        githubUrl: https://github.com/Zelaron/Pandoras-Shell
+      - title: Sqlite
+        href: /server/sqlite
+        description: Database interaction and business intelligence capabilities
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/sqlite
+      - title: MySQL
+        href: /server/mysql
+        description: >-
+          MySQL database integration with configurable access controls and
+          schema inspection
+        githubUrl: https://github.com/designcomputer/mysql_mcp_server
+      - title: Fetch
+        href: /server/fetch
+        description: Web content fetching and conversion for efficient LLM usage
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/fetch
+      - title: Tinybird
+        href: /server/tinybird
+        description: Interact with Tinybird serverless ClickHouse platform
+        githubUrl: https://github.com/tinybirdco/mcp-tinybird
+      - title: Sentry
+        href: /server/sentry
+        description: Retrieving and analyzing issues from Sentry.io
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/sentry
+      - title: EverArt
+        href: /server/everart
+        description: AI image generation using various models
+        githubUrl: https://github.com/modelcontextprotocol/servers/tree/main/src/everart
+      - title: Memory
+        href: /server/memory
+        description: Knowledge graph-based persistent memory system
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/memory
+      - title: Brave Search
+        href: /server/brave-search
+        description: Web and local search using Brave's Search API
+        githubUrl: >-
+          https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search
+      - title: Raygun
+        href: /server/raygun
+        description: >-
+          Interact with your crash reporting and real using monitoring data on
+          your Raygun account
+        githubUrl: https://github.com/MindscapeHQ/mcp-server-raygun
+      - title: Spotify MCP
+        href: /server/spotify-mcp
+        description: This MCP allows an LLM to play and use Spotify.
+        githubUrl: https://github.com/varunneal/spotify-mcp
+      - title: Search1API
+        href: /server/search1api
+        description: One API for Search, Crawling, and Sitemaps
+        githubUrl: https://github.com/fatwang2/search1api-mcp
+      - title: BigQuery
+        href: /server/bigquery
+        description: >-
+          (by LucasHild) - This server enables LLMs to inspect database schemas
+          and execute queries on BigQuery.
+        githubUrl: https://github.com/LucasHild/mcp-server-bigquery
+  - category: Cloud Platforms
+    pageurl: /category/cloud-platforms
+    pageDetails:
+      - title: AWS MCP Server
+        href: /server/rishikavikondala_mcp-server-aws
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/rishikavikondala_mcp-server-aws
+      - title: "Redis MCP Server (@gongrzhe/[email\_protected])"
+        href: /server/REDIS-MCP-Server
+        description: Redis database operations and caching microservice server
+        githubUrl: https://github.com/GongRzhe/REDIS-MCP-Server
+      - title: MCP Server Application
+        href: /server/mcp-server-app
+        description: MCP Server Application
+        githubUrl: https://github.com/Casius999/mcp-server-app
+      - title: MCP Google Calendar Server
+        href: /server/mcp-google-calendar
+        description: >-
+          A Model Context Protocol (MCP) server implementation for Google
+          Calendar integration. Create and manage calendar events directly
+          through Claude or other AI assistants.
+        githubUrl: https://github.com/markelaugust74/mcp-google-calendar
+      - title: Anthropic MCP Server
+        href: /server/Anthropic-MCP-Server
+        description: >-
+          Server for Posting Tweets from X (Twitter) Using a Google Sheet as a
+          source
+        githubUrl: https://github.com/CoderSoumya007/Anthropic-MCP-Server
+      - title: dockerized-mcpaper-server
+        href: /server/dockerized-mcpaper-server
+        description: ''
+        githubUrl: https://github.com/LeoMainini/dockerized-mcpaper-server
+      - title: Server Facu Mcp2.0.5
+        href: /server/Server-facu-mcp2.0.5
+        description: ''
+        githubUrl: https://github.com/PoQaT/Server-facu-mcp2.0.5
+      - title: Mcp Weather Service Server
+        href: /server/mcp-weather-service-server
+        description: ''
+        githubUrl: https://github.com/Sunwood-ai-labs/mcp-weather-service-server
+      - title: Mcp Snowflake Service
+        href: /server/mcp-snowflake-service
+        description: MCP server implementation for Snowflake integration
+        githubUrl: https://github.com/datawiz168/mcp-snowflake-service
+      - title: mcp-gsuite MCP server
+        href: /server/mcp-gsuite
+        description: MCP Server to interact with Google Gsuite prodcuts
+        githubUrl: https://github.com/MarkusPfundstein/mcp-gsuite
+      - title: Neon
+        href: /server/neon
+        description: Interact with the Neon serverless Postgres platform
+        githubUrl: https://github.com/neondatabase/mcp-server-neon
+      - title: AWS
+        href: /server/aws
+        description: Perform operations on your AWS resources using an LLM
+        githubUrl: https://github.com/rishikavikondala/mcp-server-aws
+      - title: Cloudflare
+        href: /server/cloudflare
+        description: >-
+          Deploy, configure & interrogate your resources on the Cloudflare
+          developer platform (e.g. Workers/KV/R2/D1)
+        githubUrl: https://github.com/cloudflare/mcp-server-cloudflare
+  - category: Browser Automation
+    pageurl: /category/browser-automation
+    pageDetails:
+      - title: Puppeteer MCP Server (Python Implementation)
+        href: /server/twolven_mcp-server-puppeteer-py
+        description: Mirror of
+        githubUrl: https://github.com/MCP-Mirror/twolven_mcp-server-puppeteer-py
+      - title: Deno 2 Playwright Model Context Protocol Server Example
+        href: /server/deno2-playwright-mcp-server
+        description: >-
+          A Model Context Protocol server that provides browser automation
+          capabilities using Playwright and Deno 2.
+        githubUrl: https://github.com/jakedahn/deno2-playwright-mcp-server
+      - title: Puppeteer MCP Server (Python Implementation)
+        href: /server/mcp-server-puppeteer-py
+        description: ''
+        githubUrl: https://github.com/twolven/mcp-server-puppeteer-py
+      - title: Playwright MCP Server
+        href: /server/mcp-playwright
+        description: >-
+          Repository contains Playwright Model Context Protocol to automate
+          Browser and APIs
+        githubUrl: https://github.com/executeautomation/mcp-playwright
+      - title: MCP Server Playwright
+        href: /server/MCP-Server-Playwright
+        description: MCP server for browser automation using Playwright
+        githubUrl: https://github.com/Automata-Labs-team/MCP-Server-Playwright
+      - title: Browserbase MCP Server
+        href: /server/mcp-server-browserbase
+        description: ''
+        githubUrl: https://github.com/browserbase/mcp-server-browserbase
+      - title: Puppeteer
+        href: /server/puppeteer
+        description: Browser automation and web scraping
+        githubUrl: >-
+          https://github.com/modelcontextprotocol/servers/blob/main/src/puppeteer
+      - title: Playwright MCP
+        href: /server/playwright-mcp
+        description: >-
+          This MCP Server will help you run browser automation and webscraping
+          using Playwright
+        githubUrl: https://github.com/executeautomation/mcp-playwright
+  - category: Databases
+    pageurl: /category/databases
+    pageDetails:
+      - title: mongo-mcp-server
+        href: /server/mongo-mcp-server
+        description: MCP server for mongoDB
+        githubUrl: https://github.com/Matteturtle09/mongo-mcp-server
+      - title: MCP Alchemy
+        href: /server/mcp-alchemy
+        description: >-
+          A MCP (model context protocol) server that gives the LLM access to and
+          knowledge about relational databases like SQLite, Postgresql, MySQL &
+          MariaDB, Oracle, and MS-SQL.
+        githubUrl: https://github.com/runekaagaard/mcp-alchemy
+      - title: '@f4ww4z/mcp-mysql-server'
+        href: /server/mcp-mysql-server
+        description: A Model Context Protocol server for MySQL database operations
+        githubUrl: https://github.com/f4ww4z/mcp-mysql-server
+      - title: 🗄️ MongoDB MCP Server for LLMS
+        href: /server/mongo-mcp
+        description: A mongo db server for the model context protocol (MCP)
+        githubUrl: https://github.com/QuantGeekDev/mongo-mcp
+      - title: PostgreSQL
+        href: /server/postgres
+        description: Read-only database access with schema inspection
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/postgres
+  - category: AI Chatbot
+    pageurl: /category/ai-chatbot
+    pageDetails:
+      - title: Illumio MCP Server
+        href: /server/illumio-mcp-server
+        description: The first MCP server for cybersecurity
+        githubUrl: https://github.com/alexgoller/illumio-mcp-server
+      - title: mcp-server-agenda
+        href: /server/mcp-server-agenda
+        description: >-
+          A model context protocol server to interface the agenda note taking
+          software using x-callback-url
+        githubUrl: https://github.com/alexgoller/mcp-server-agenda
+      - title: JetBrains MCP Proxy Server
+        href: /server/mcp-jetbrains
+        description: >-
+          A model context protocol server to work with JetBrains IDEs: IntelliJ,
+          PyCharm, WebStorm, etc. Also, works with Android Studio
+        githubUrl: https://github.com/JetBrains/mcp-jetbrains
+  - category: File Systems
+    pageurl: /category/file-systems
+    pageDetails:
+      - title: MCP Filesystem Server
+        href: /server/mcp_server_filesystem
+        description: ''
+        githubUrl: https://github.com/philgei/mcp_server_filesystem
+      - title: Filesystem MCP Server
+        href: /server/mcp-filesystem-server
+        description: >-
+          Go server implementing Model Context Protocol (MCP) for filesystem
+          operations.
+        githubUrl: https://github.com/mark3labs/mcp-filesystem-server
+      - title: Filesystem
+        href: /server/filesystem
+        description: Secure file operations with configurable access controls
+        githubUrl: >-
+          https://github.com/modelcontextprotocol/servers/blob/main/src/filesystem
+  - category: Os Automation
+    pageurl: /category/os-automation
+    pageDetails:
+      - title: Claude Computer Commander
+        href: /server/ClaudeComputerCommander
+        description: This is MCP server for Claude that gives it terminal control
+        githubUrl: https://github.com/wonderwhy-er/ClaudeComputerCommander
+      - title: MCP Cases
+        href: /server/mcp-cases
+        description: >-
+          MCP Cases is a format that allows to specify how your MCP Server
+          behaves for various automations
+        githubUrl: https://github.com/strowk/mcp-cases
+      - title: server-run-commands
+        href: /server/server-run-commands
+        description: MCP server to run commands on the local OS
+        githubUrl: https://github.com/anton-107/server-run-commands
+      - title: Server MCP4.240
+        href: /server/Server-MCP4.240
+        description: ''
+        githubUrl: https://github.com/D4rkM1/Server-MCP4.240
+      - title: Windows CLI MCP Server
+        href: /server/win-cli-mcp-server
+        description: >-
+          Model Context Protocol server for secure command-line interactions on
+          Windows systems
+        githubUrl: https://github.com/SimonB97/win-cli-mcp-server
+  - category: Finance
+    pageurl: /category/finance
+    pageDetails:
+      - title: mcp-server-yahoo-finance MCP server
+        href: /server/mcp-server-yahoo-finance
+        description: 'MCP Server for Yahoo Finance (STATUS: PRE-ALPHA)'
+        githubUrl: https://github.com/wrale/mcp-server-yahoo-finance
+      - title: MCP Financial Advisor
+        href: /server/mcp-financial-advisor
+        description: >-
+          A Model Context Protocol (MCP) server for financial advisory and
+          bookkeeping, providing structured financial data and context for AI
+          agents.
+        githubUrl: https://github.com/dgormly/mcp-financial-advisor
+      - title: Alphavantage MCP Server
+        href: /server/alphavantage
+        description: A MCP server for the stock market data API, Alphavantage API.
+        githubUrl: https://github.com/calvernaz/alphavantage
+  - category: Communication
+    pageurl: /category/communication
+    pageDetails:
+      - title: ChatSum
+        href: /server/chatsum
+        description: Query and Summarize your chat messages.
+        githubUrl: https://github.com/mcpservers/mcp-server-chatsum
+      - title: MCP Communicator (Telegram)
+        href: /server/mcp-communicator-telegram
+        description: >-
+          An MCP server that enables communication with users through Telegram.
+          This server provides a tool to ask questions to users and receive
+          their responses via a Telegram bot.
+        githubUrl: https://github.com/qpd-v/mcp-communicator-telegram
+      - title: Slack
+        href: /server/slack
+        description: Channel management and messaging capabilities
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/slack
+  - category: Cloud Storage
+    pageurl: /category/cloud-storage
+    pageDetails:
+      - title: s3-mcp-server
+        href: /server/s3-mcp-server
+        description: ''
+        githubUrl: https://github.com/tech4life87/s3-mcp-server
+      - title: Google Drive
+        href: /server/gdrive
+        description: File access and search capabilities for Google Drive
+        githubUrl: https://github.com/modelcontextprotocol/servers/blob/main/src/gdrive
+  - category: Knowledge And Memory
+    pageurl: /category/knowledge-and-memory
+    pageDetails:
+      - title: Claude Server MCP
+        href: /server/claude-server
+        description: >-
+          Claude Server is an MCP implementation that enhances Claude's
+          capabilities by providing sophisticated context management across
+          sessions, enabling persistent knowledge organization through
+          hierarchical project contexts and continuous conversation threads
+          stored in a well-structured ~/.claude directory.
+        githubUrl: https://github.com/davidteren/claude-server
+      - title: MCP Memory Service
+        href: /server/mcp-memory-service
+        description: >-
+          MCP server providing semantic memory and persistent storage
+          capabilities for Claude using ChromaDB and sentence transformers.
+        githubUrl: https://github.com/doobidoo/mcp-memory-service
+      - title: cognee-mcp-server
+        href: /server/cognee-mcp-server
+        description: ''
+        githubUrl: https://github.com/topoteretes/cognee-mcp-server
+      - title: MCP Apple Notes
+        href: /server/mcp-apple-notes
+        description: >-
+          Talk with your notes in Claude. RAG over your Apple Notes using Model
+          Context Protocol.
+        githubUrl: https://github.com/RafalWilinski/mcp-apple-notes
+      - title: Claudesidian
+        href: /server/claudesidian
+        description: An MCP server for your second brain.
+        githubUrl: https://github.com/Synaptic-Labs-AI/claudesidian
+      - title: Memory MCP Server
+        href: /server/python-memory-mcp-server
+        description: ''
+        githubUrl: https://github.com/evangstav/python-memory-mcp-server
+      - title: Apple Notes Model Context Protocol Server for Claude Desktop.
+        href: /server/apple-notes-mcp
+        description: Read your Apple Notes with Claude Model Context Protocol
+        githubUrl: https://github.com/sirmews/apple-notes-mcp
+  - category: Entertainment And Media
+    pageurl: /category/entertainment-and-media
+    pageDetails:
+      - title: Testing-of-FakePixelPe-Mcpe-Server
+        href: /server/Testing-of-FakePixelPe-Mcpe-Server
+        description: >-
+          I am Abinanda and I am Main Head of The project so I am Trying to make
+          a Server like Hypixel in Mcpe With Private and Public+Paid Plugins
+        githubUrl: https://github.com/LoveZero29/Testing-of-FakePixelPe-Mcpe-Server
+      - title: mcPixelmonServer
+        href: /server/mcPixelmonServer
+        description: ''
+        githubUrl: https://github.com/Odranoel135/mcPixelmonServer
+  - category: Calendar Management
+    pageurl: /category/calendar-management
+    pageDetails:
+      - title: Calendar AutoAuth MCP Server
+        href: /server/Calendar-Autoauth-MCP-Server
+        description: ''
+        githubUrl: https://github.com/GongRzhe/Calendar-Autoauth-MCP-Server
+      - title: Calendar MCP Server
+        href: /server/Calendar-MCP-Server
+        description: ''
+        githubUrl: https://github.com/GongRzhe/Calendar-MCP-Server
+      - title: Google Calendar MCP Server
+        href: /server/mcp_server_google_calendar
+        description: ''
+        githubUrl: https://github.com/eliasuran/mcp_server_google_calendar
+  - category: Database
+    pageurl: /category/database
+    pageDetails:
+      - title: mcp-server-duckdb
+        href: /server/mcp-server-duckdb
+        description: >-
+          A Model Context Protocol (MCP) server implementation for DuckDB,
+          providing database interaction capabilities
+        githubUrl: https://github.com/ktanaka101/mcp-server-duckdb
+  - category: Location Services
+    pageurl: /category/location-services
+    pageDetails:
+      - title: Google Maps
+        href: /server/google-maps
+        description: Location services, directions, and place details
+        githubUrl: >-
+          https://github.com/modelcontextprotocol/servers/blob/main/src/google-maps
+  - category: Customer Data Platforms
+    pageurl: /category/customer-data-platforms
+    pageDetails:
+      - title: Inoyu
+        href: /server/inoyu
+        description: >-
+          Interact with an Apache Unomi CDP customer data platform to retrieve
+          and update customer profiles
+        githubUrl: https://github.com/sergehuber/inoyu-mcp-unomi-server
+  - category: Security
+    pageurl: /category/security
+    pageDetails:
+      - title: Snyk MCP Server
+        href: /server/mcp-snyk
+        description: A standalone Snyk server for Model Context Protocol (MCP)
+        githubUrl: https://github.com/Sladey01/mcp-snyk
+  - category: Monitoring
+    pageurl: /category/monitoring
+    pageDetails:
+      - title: MCP Ayd Server
+        href: /server/mcp-ayd-server
+        description: MCP (Model Context Protocol) Server for Ayd status monitoring service.
+        githubUrl: https://github.com/macrat/mcp-ayd-server
+      - title: aoirint_mcping_server
+        href: /server/aoirint_mcping_server
+        description: >-
+          Headless status monitor with HTTP JSON API for Minecraft Bedrock/Java
+          server
+        githubUrl: https://github.com/aoirint/aoirint_mcping_server
+  - category: Virtualization
+    pageurl: /category/virtualization
+    pageDetails:
+      - title: MCPE Alpha Server for Pterodactyl
+        href: /server/MCPE-Alpha-Server-for-Pterodactyl
+        description: Cores for MCPE Alpha servers using the Pterodactyl panel
+        githubUrl: https://github.com/eqozqq/MCPE-Alpha-Server-for-Pterodactyl
